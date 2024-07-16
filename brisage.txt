@@ -1,0 +1,2866 @@
+La Triste Lame: 1 394
+Epee de Boisaille: 1 802
+Epee de Fouraille: 1 749
+La Triste Lame: 1 394
+Goultard: 0
+Epee d'Alle: 2 496
+Epee d'Ha: 0
+La criniere de Badoul: 4 780
+Le Tranchant Infernal: 1 521
+Amulette du Hibou: 0
+Amulette de l'Ours: 0
+Arc de Boisaille: 333
+Dagues de Boisaille: 0
+Anneau de Chance: 912
+Anneau d'Agilite: 0
+Bottes de Bowisse: 11 950
+L'Ecrabouilleur de Iop: 2 285
+Baguette de Boisaille: 54
+Baton de Boisaille: 200
+Marteau de Boisaille: 203
+Pelle de Boisaille: 0
+Ceinture de Puissance: 289
+La Gougnole: 1 177
+La Destinee Doree: 318
+La Broche Celeste: 9 600
+Le Flan des Etoiles: 12 800
+La Celebrite: 4 710
+Baguette de Glace: 376
+La Baguette des Limbes: 124 800
+Baguette des Cieux: 7 174
+Baton Feuillu: 2 339
+Baton Kouyu: 0
+Baton Spirituel: 312
+God Rod: 12 800
+Hook: 5 180
+Razielle: 11 064
+Ceinture du Tot: 11 308
+Kryst O'Boul: 37 486
+Dagues de Fouraille: 1 335
+Dagues de Croclage: 820
+Bashers: 5 258
+Blessdags: 10 466
+Chakra Style: 11 760
+Marteau d'Ivoire: 333
+Kaiser: 11 822
+Ragnarok: 24 248
+Cerberus: 575
+Barabas: 2 622
+Sargasse: 3 938
+Pelle de Crapouille: 2 283
+Pelle de Rapage: 1 437
+Ares: 19 200
+Barbe Grise: 1 408
+Ceinture Vitalesque: 111
+Ceinture Forcesque: 0
+Ceinture Agilesque: 197
+Arc Deroutant: 1 685
+Xaveur: 21 031
+Le Marteau du Chafer: 929
+Nomoon: 3 721
+La Corde de Yamato: 2 220
+Anneau des Rocheuses: 527
+La Larme du Bouftou: 155
+Collier de l'Arc en Ciel: 594
+Pelle du Craqueleur: 2 425
+Sandales Tofuesques: 0
+Bottes de Faillete: 391
+Baton du Tabi: 4 614
+Amulette du Kam Assutra: 9 600
+Amulette de Krokette: 95
+Amulette du Sram: 583
+Amulette Deulegarnoulle: 2 958
+Lame du Gob-Trotteur: 832
+Koupe-koupe: 573
+Arc de Triomphe: 6 866
+Arc Hancihaile: 0
+Arc de Jeanne: 4 440
+Baguette de Liriel: 665
+Baton du Bwork Mage: 6 237
+Baton du Grand Pa Wabbit: 3 563
+Arc du Bwork Archer: 400
+Lame du Chafer: 1 145
+Leurnettes: 0
+Dagues Eurfolles: 2 390
+Marteau Pickeur: 2 014
+Anneau Rak: 665
+Rhizome Dore: 11 220
+La Klebik: 1 084
+L'Anneau de Valeur: 1 307
+Ceinture d'Endurance: 652
+La Queue: 0
+La Queue Infernale: 0
+L'Ecaliseur: 3 625
+Baton en Racine d'Abraknyde: 3 737
+Tueuse de Chenes: 0
+Amulette du Chafer: 358
+Arc en Racine d'Abraknyde: 3 200
+Baguette en Racine d'Abraknyde: 17 743
+Elagueuse de Charme: 7 998
+Pelle Teuze: 1 394
+Trancheuse d'If: 0
+Boulgourde des Clairieres: 19 814
+Corde d'Ivan Nowe: 3 441
+Amulette en Crabe: 2 220
+Amulette du Marin: 0
+Amulette du Pirate: 7 352
+Baton du Maitre des Bouftous: 28 808
+Decoupeuse de Kralamoure: 22 615
+Chapeau Pointu: 376
+Amulette du Pecheur de Somoon: 275
+Amulette des Abimes: 4 592
+Arc des Rivages: 11 961
+Baton du Maitre des Tofus: 12 158
+Baton du Maitre des Tabis: 3 317
+Mangeuse de Chataignier: 162
+Fendeuse de Merisier: 4 761
+Trancheuse de Noyer: 2 788
+Mangeuse d'Erable: 2 220
+La Coiffe du Ploukosse: 476
+Makroute: 4 716
+Choipo Podlard: 9 620
+Pandawa: 163 843
+Le Oiram: 3 409
+Kritter: 293
+Dora: 1 261 398
+Dantgoule: 2 799
+Masque Tromatisant: 5 856
+Crystal O'Boul: 366
+Minotokorno: 3 993
+Houde: 4 997
+Lorko Kasko: 1 526
+Korko Klako: 3 193
+Jouik Krampe: 1 171
+Gulliver: 4 675
+Alliance de Silimelle: 2 204
+Bottes de Ragalde: 11 973
+Ceinture de Securite: 320
+Baton Cornu: 3 474
+Cape de Bowisse: 338
+Cape du Vampire: 111
+Cape du Justicier: 4 166
+Cape du Poolay Chogrelotant: 223
+Koliet Aclou: 500
+Gantie Royal: 57
+Camaineux: 223
+Einekeineux: 215
+Mangeuse de Frene: 0
+Cape Edepee: 2 306
+Cape Ellinie: 205
+Cape Ulais: 972
+Cape Abilite: 64
+Cape Sulcorpe: 501
+Cape du Coq Hu: 2 536
+Cape de Mori Arty: 0
+Cape Maj'Hic: 843
+Cape Itou Lascione: 0
+Agride: 2 194
+Amulette du Bucheron: 763
+Bottes du Chat Bute: 103
+Anneau Fortifiant: 51
+Pendentif du Hibou Chetif: 207
+Anneau Rexik: 0
+Cape de Bonne Esperance: 3 547
+Abraknydi Vivitus: 3 546
+Epee Sacree: 187
+Lame du Bwork: 3 292
+Arc Sifflant: 576
+Arc Hade: 116
+Baguette d'Intelligence: 6 080
+Baguette de Sagesse: 6 398
+Abranneau: 3 210
+Bottes de Kluh: 601
+Anneau de Satisfaction: 3 200
+Anneau Forcesque: 0
+Anneau Agilesque: 0
+Anneau Vitalesque: 48
+Petit Anneau Magique: 0
+Petit Anneau du Chanceux: 0
+Ceinture de Chance: 0
+Bottes de Force: 0
+Sandales d'Intelligence: 3 196
+Bottes Agilesques: 0
+Bottes de Chance: 1 372
+Dragolyre: 17 849
+Bottes de Concentration: 4 881
+Bottes du Bouftou: 0
+Dagues Aiguisees: 6 816
+Bottes de Klime: 3 861
+Bottes de Poursuite: 12 810
+Bottes d'Hogmeiser: 15 659
+Bottes Usees d'Hogmeiser: 0
+Bottes Dorees d'Hogmeiser: 166 181
+Amulette de Silicate: 0
+La Feuille d'Automne: 43 706
+Dagues Ancestrales: 4 616
+Fendeuse d'Abraknyde: 34 781
+Puissantes Bottes de Klime: 0
+Fendeuse d'Abraknyde Ancestral: 34 781
+Lame d'Ogralimde: 11 840
+Cape de Rougeur: 591
+Cape Bleutee: 0
+Louffeur: 193
+Bandeau Komintot: 0
+Lisseur: 49
+Cape Sombre: 3 599
+Abracape: 6 559
+Bandeau de Vitalite: 159
+Cape du Mulou Fou: 1 320
+Cape du Tofu Fou: 6 505
+La Samoulaille: 1 224
+Cape Hilere: 5 533
+Cape Rice: 5 920
+La Boufteuse: 4 059
+Dofusteuse: 136 640
+Cape Fulgurante: 400 000
+Couronne du Wa Wabbit: 19 898
+Baton du Wa Wabbit: 9 150
+Cape du Wa Wabbit: 24 087
+Citwouille: 662
+Casque: 1 197 428
+Ailes en bois: 5 185
+Couteau a Stek: 13 111
+Dagues Cruelles d'Elorie Entuwan: 5 247
+Lame de Fon: 19 955
+Dagues Fourbesques: 20 012
+Lames Sanglantes D'Ortimus Contrari: 23 900
+Epee Cassee du Chevalier Malchanceux: 779
+Pelle de Bois Dormant: 14 916
+Pelle Woukuis: 18 117
+Cruelle Pelle-Truelle: 7 414
+Pelle de Koutoulou: 3 253
+Pelle des Champs: 223
+Masse d'Ha: 0
+Marteau R'unique: 1 733
+Masse Tmosfer: 2 872
+Marteau Outar: 5 848
+Masse Aj Taye: 3 785
+Marteau Pospodrol: 6 260
+Marteau a Torts: 52 821
+Marteau des Falistos: 8 109
+Anneau du Mental: 270
+Masque Kanniboul: 10 189
+Arc Buse: 1 221
+Baguette Heure: 3 912
+Arc en Corne de Bouftou: 1 850
+Arc dit Keha, version standard: 7 823
+Arc Ecologique: 2 394
+Arc de Cristal: 5 513
+Arc du Roi des Borins: 4 802
+Baguette d'Eglise: 4 647
+Baguette Ni'Ninnin: 16 000
+Baguette a Pans: 20 472
+Baguette d'Houvette: 12 580
+Baguette Meneuse: 21 511
+Baton de fausse magie: 1 575
+Baton Dakn: 2 064
+Baton des Rois: 24 317
+Medaille Oly: 7 428
+Arc Holic: 306
+Arc du Xueluom: 3 891
+Arc de Boo: 16 458
+Arc a Poulie Sciee: 4 100
+L'Arc a Hick: 1 021
+Arc Hidsad: 3 563
+Demi-Baguette: 69
+Daguette: 52 046
+Le Tison Fute: 16 513
+L'Hyldegarde: 8 460
+Baguette Sylvien: 4 440
+Pieu Vampirique: 18 433
+Baton Tont'Ata: 2 133
+Baton d'Oubli: 1 811
+La Canne Hete: 774
+Baton de Bouftier: 1 129
+Baton de Dina, dit 'le Mythe': 13 016
+Les Lames en Table: 7 116
+L'Ergot Mina: 478
+Dagues Aj'Deh'La: 12 697
+Le Rasoir Infernal: 2 273
+Dagues Tylo: 1 173
+Hache Terophyle: 353
+Hache Heuvante: 48
+Le Scrounnchhh: 9 181
+Marteau Re'Thu: 7 921
+Le Matronome: 11 840
+Maillet Aclou: 903
+Marteau Tau: 3 371
+Marteau Toh'Lo: 0
+Pelle a Thart': 702
+Pelle Zebuth: 10 938
+Pelle Mechba: 5 016
+Pelle Houze: 3 700
+Pelle Secutrice: 58 493
+La Pelle du Large: 31 890
+Pelle Ikan: 9 030
+Mauvaise Pioche: 2 971
+Amulette de Xelor: 9 600
+La Zulie Lame: 20 766
+Amulette du Craqueleur: 32 000
+Chance a Mulette: 27 200
+Harmonie: 19 462
+Le Twote en Carton: 11 790
+Accord: 3 991
+Entente: 2 725
+Embleme Livide: 12 453
+Kabale: 0
+Amulette Itby: 875
+La Reinette: 1 456
+Medaille Holy: 3 651
+L'Adelus: 4 957
+Plimclik: 31 650
+La Broche Hete: 4 436
+La Chaine Nhanor Kibrill: 1 472
+Chaine de la Liche: 6 744
+L'Anneau Dhyn: 317
+Chance d'Ecaflip: 228
+Passe de Xelor: 5 501
+Souvenir d'Enutrof: 2 337
+L'Enutrofion: 17 920
+La Mokette: 15 046
+Alliance: 1 915 852
+Baguette de Feu Follesque: 372
+Dagues O'Bert: 2 484
+Neuf Queues: 34 061
+Abranneau Mou: 9 975
+Decoupeuse de Yench: 29 127
+Abranneau Sombre: 3 210
+Abramu: 9 600
+Abrarc: 19 950
+Bottes de Maitrise: 0
+Bottes de Puissance: 773
+Bottes d'Anticipation: 0
+Bottes de Nexus: 0
+Etoile du soir: 18 244
+Le Cutter: 17 388
+Fecaliseur du Magicien: 274
+Fecaliseur du Guerrier: 461
+Ambramulette Moskito: 7 040
+Bottes d'Apprentissage: 17 458
+Bottes de l'Apprenti Invocateur: 14 689
+Ceinture Luthuthu: 8 140
+Ceinture du Dodu Trembleur: 2 686
+Ceinture des Vents: 21 066
+Cape de Jules Yanos: 6 260
+Cape d'Elya Wood: 23 680
+Petit Sac en Laine de Boufton: 43
+Sac du Petit Recolteur: 0
+Sac du Petit Aventurier: 651
+Ceinture de Celerite: 1 699
+Ceinture de Poche: 0
+Sac du Recolteur: 1 910
+Sac du Grand Recolteur: 51 603
+Sac du Staca Noviste: 21 396
+Sac de l'Aventurier: 3 298
+Sac du Grand Aventurier: 0
+Force de Crocoburio: 9 347
+Esprit de Crocoburio: 15 524
+Puissance de Crocoburio: 4 851
+Baguette Affeulante: 28 416
+Wabbit: 70 239
+Dragocoiffe Calcaire: 9 870
+Casque du Chafer: 9 600
+Cape Ouginak: 6 662
+Couteau de Chasse: 477
+Arc de Chasse: 12 641
+Cape du Corbac: 7 266
+Bottes Volatiles: 15 115
+Shako: 1 222
+Makroute Sombre: 4 716
+Le Ours: 1 177
+Dora Sombre de Brave: 1 360
+Champo: 3 700
+Kraignosse: 8 522
+Cape Brakmarienne: 0
+Cape Bontarienne: 0
+La Croqueuse: 1 177
+L'Ami Lehunui: 3 357
+Ramoume l'Eternelle: 1 681
+Puissante Ceinture Fulgurante: 41 600
+La Vegete Hatif: 3 968
+La Mouthmou: 1 697
+Bottes de Lymphe a Tik: 10 398
+Moon Boutse: 17 340
+Bottes Tarsy: 15 600
+Bottes Orino: 11 950
+Hache Hemal: 0
+Cape de Bou: 3 350
+Cape Flotteuse: 22 036
+Cape Maimpa: 655
+Cape Sanguine: 9 317
+Bottes Animales: 145 790
+La Brouteuse: 22 900
+La Guenille: 6 506
+La Poilue: 14 125
+L'Amulette du Puzzle de la Griffe: 18 004
+Amulette du Badoul: 5 676
+Amulette de la Boule: 3 929
+Amulette de la Bouboule: 63 187
+Dragolyre Remaniee: 17 849
+Omelette Amulette: 0
+La Bourgeonette: 1 451
+Le foulard du Lard Fou: 17 204
+La Lou Ptiote: 0
+La Bibelaw: 604
+La Veaux Doux: 0
+Bottes Animales Sombres: 145 790
+Chtevu: 10 414
+Ceinture du Rat: 48 506
+Kwakoiffe de Flammes: 3 260
+Abracaska: 48 547
+Coiffe du Bouftou: 254
+Kwape de Flammes: 13 854
+Abracapa: 54 674
+Cape Bouffante: 4 200
+Kwaklame de Flammes: 13 533
+Marteau du Bouftou: 450
+Abraton: 36 681
+Kwakanneau de Flammes: 8 721
+Anneau de Bouze le Clerc: 175
+Anobra: 13 476
+Kwakobottes de Flammes: 14 073
+Boufbottes: 1 352
+Amukwak de Flammes: 0
+Amulette du Bouftou: 175
+Araknamu: 8 880
+Kwakture de Flammes: 9 648
+Ceinture du Bouftou: 1 519
+Abrature: 38 570
+L'Eni Kere: 11 448
+Boufcoiffe Royale: 3 470
+Epee Royale du Bouftou: 1 032
+Anneau Royal du Bouftou: 4 770
+Boufbottes Royales: 1 352
+Amulette Royale du Bouftou: 3 563
+Ceinture Royale du Bouftou: 3 454
+Cape Bouffante Royale: 4 200
+Gelocape: 14 060
+Gelocoiffe: 12 005
+Gelano: 5 454
+Gelobottes: 14 697
+Geloture: 10 933
+Gelamu: 11 897
+Cape de l'Aventurier: 0
+Chapeau de l'Aventurier: 68
+Anneau de l'Aventurier: 38
+Bottes de l'Aventurier: 138
+Ceinture de l'aventurier: 277
+Amulette de l'Aventurier: 104
+Vegacoiffe: 15 002
+Vegacape: 11 308
+Vegamu: 13 319
+Megabottes: 6 834
+Bottes Vioutifoule: 12 239
+Megature: 12 301
+Ceinture Vioutifoule: 12 571
+Carabottes: 25 949
+Caracoiffe: 32 000
+Caracape: 42 698
+Kwape de Glace: 6 339
+Kwakoiffe de Glace: 2 942
+Kwakture de Glace: 6 610
+Corbalame: 6 010
+Corbottes: 14 459
+Corbacoiffe: 10 256
+Corbacape Mastralis: 498 996
+Hachette de Bucheron: 143
+Hachette Hevlalav: 795
+Hache Vor'Om: 0
+Coupeuse de Bombu: 1 972
+Elagueuse d'Oliviolet: 3 514
+Hache de Pierre: 12 659
+Hache de Breche: 4 252
+Coupeuse de Sifflet: 8 491
+Hache Darsson: 7 188
+Trancheuse de Partie: 6 932
+Bardiche du Milicien: 25 002
+Hachette Savante: 12 864
+Francisque Basquaise: 41 870
+Vouge a Poisson: 8 365
+Hache de Dame Oise: 28 679
+Hache de Lookabeer: 11 431
+Halle de Barde: 44 344
+Caracape Minotoris: 42 698
+La Griffe: 27 968
+La Griffe Aiguisee: 27 968
+Fausse Griffe de Ceangal: 28 347
+Baton Carnivore: 1 152
+Toady: 4 125
+Ceinture Corbaquiale: 42 445
+Ceinture Chouqueuse: 33 212
+Ceinture Kokokette: 25 700
+Ceinture Tortue Jaune: 27 444
+Ceinture Tortue Bleue: 13 529
+Ceinture Tortue Verte: 8 140
+Ceinture Tortue Rouge: 23 680
+Ceinture Kolante: 6 971
+Ceinture Banisation: 2 493
+Ceinture Banisation Sauvage: 2 493
+Ceinture du Kwabe: 558
+Ceinture Mulante: 31 774
+Ceinture Meulante: 65 492
+Ceinture Dracochoune: 8 113
+Ceinture Chafeuse: 7 152
+Ceinture Piquante: 1 084
+Ceinture Ouginakale: 11 355
+Anneau Tribal: 18 595
+Ceinture Bontarienne: 17 345
+Ceinture Brakmarienne: 41 209
+La Xerbo: 19 747
+Bottes de Satisfaction: 0
+Pelle Doudesque: 9 575
+Marteau Tape Doigts: 8 544
+Daguette du Captain Chafer: 52 046
+Dague Rafeuse: 45 878
+Dague Regah: 90 790
+Dague Lutination: 30 060
+Baton de Marie Aigue: 37 021
+Griffe Rose: 68 368
+Eventail Tranchant: 12 885
+Pic a Glace: 11 637
+Amulette du Craqueleur des Plaines: 11 632
+La Maitrise des Poupees: 11 910
+Baguette Helles: 8 806
+Baguette Molle: 30 670
+Baguette Irreelle: 40 048
+Baguette Velue: 36 118
+Lance d'Aga Dou: 31 808
+Amulette du Renouveau: 44 800
+Amulette Turquoise: 8 113
+Arc Boutant: 10 645
+Arc Chiduc: 31 820
+Corbacape: 498 996
+Ceinture de l'Amant d'Ha: 77 815
+Arc Ange: 51 317
+Arc Chitecte: 51 032
+Arc du Pecheur: 17 909
+Abraton Sombre: 36 681
+Amulette du Mineur Sombre: 4 563
+La Feuille d'Hiver: 10 072
+La Feuille de Printemps: 105 600
+La Feuille d'Ete: 13 320
+Anneau Forain: 7 806
+Anneau de l'Invocateur Satisfait: 10 709
+Anneau de Loopine: 8 888
+Amulette de Shika: 1 514
+Anneau Nime: 21 592
+Anneau du Jeune Vald: 4 085
+Alliance de Farle: 42 288
+Bottes de l'Eleveur de Bouftous: 16 730
+Souliers Vernis de Porkass: 4 989
+Dragocoiffe Argile: 9 654
+Dragocoiffe Ardoise: 19 315
+Dragocoiffe Charbon: 11 146
+Chapeau du Mineur Sombre: 36 450
+Dora Bora: 254 243
+Korko Kousto: 14 867
+Casque du Bwork de Bronze: 192 104
+Arc du Sram Archer: 18 085
+Arc du Chafer Archer: 54 020
+Le Tronknydum: 4 434
+Taille-haie primitif du Wobot: 9 051
+Tongues Wabbits: 31 765
+Baguette d'Elya Wood: 63 427
+Baguette du Chene Mou: 345 312
+Baguette en Racine d'Abraknyde Sombre: 17 743
+Balgourde des Clairettes: 4 937
+Slip Kangouwou du Wabbit GM: 5 267
+Oreilles de Wabbits: 10 859
+Marteau Polpoulette: 8 600
+Marteau Fantal: 43 443
+Marteau Rehadaure: 57 960
+Anneau du Mineur Gogorifiant: 38 968
+Marteau de la Terps: 53 631
+Marteau Pinambour: 9 809
+Marteau R'Ticolis: 63 082
+Marteau Kahr: 60 550
+Marteau Ridhe: 108 390
+Marteau Nitruhant: 40 660
+Marteau Refacteur: 13 911
+Dagues R'Hoh: 150 960
+Dagues Hischantes: 28 825
+Amrothiline: 87 625
+Baguette de Kouartz: 13 631
+La Migraine: 44 816
+Kelinobranche: 96 748
+La Racine Cinati: 102 120
+La Racine Hagogue: 186 316
+Racine Sauvageonne: 5 917
+Baton du Feca: 43 185
+Pelle Hebuse: 23 669
+Pelle Musicale: 12 719
+Pelle Rinage: 29 798
+Pelle Hikule: 92 395
+Pelle du Mineur Sombre: 63 199
+Pelle Mairhe: 53 836
+Pelle Vaidaire: 23 680
+Pelle Gicque: 25 280
+La Pelle Helabete: 41 101
+Bottes du Gardien des Egouts: 31 070
+Chapeau du Marie: 0
+Chapeau de la Mariee: 0
+Coiffe de l'Homme Ours: 1 320
+Cape de l'Homme Ours: 8 806
+Bottes de l'Homme Ours: 639
+Alliance de l'Homme Ours: 3 499
+Amulette de l'Homme Ours: 2 220
+Ceinture de l'Homme Ours: 2 942
+Baton de l'Homme Ours: 4 337
+Amukwak de Glace: 12 470
+Kwakanneau de Glace: 5 156
+Fourbamulette: 137 600
+Fourballiance: 60 360
+Fourbabottes: 26 893
+Ceinture Fourbissante: 114 113
+Amukwak de Terre: 10 300
+Amukwak du Vent: 0
+Kwakanneau de Terre: 15 900
+Kwakanneau de Vent: 12 480
+Kwaklame de Glace: 16 035
+Kwaklame de Terre: 10 917
+Kwaklame du Vent: 13 767
+Kwakobottes de Glace: 10 791
+Kwakobottes de Terre: 13 300
+Kwakobottes de Vent: 22 130
+Kwape de Terre: 12 244
+Kwape de Vent: 3 217
+Kwakture de Terre: 7 424
+Kwakture de Vent: 4 137
+Kwakoiffe de Terre: 6 646
+Kwakoiffe de Vent: 7 848
+Fourbasse-Ton: 43 489
+Fourbacapa: 51 803
+Fourbacoiffe: 44 307
+Epis de Farle: 32 000
+Bracelet Magique de Farle: 15 312
+Fourche de Farle: 39 809
+Sabots de Farle: 62 140
+Cape de Farle: 24 490
+Farlature: 33 692
+Farlacoiffe: 42 205
+Epee de l'initie: 0
+Baguette de l'initie: 0
+Arc de l'initie: 0
+Pelle de l'initie: 0
+Amulette des Champs: 370
+Anneau Champetre: 148
+La Plantouze des Champs: 155
+Bottes Champetres: 143
+Capouze des Champs: 103
+Ceinture Fleurie: 91
+Coiffe Champetre: 191
+Lame du Chef Bwork: 26 138
+Amulette du Chef Bwork: 44 800
+Bracelet du Chef Bwork: 13 577
+Bottes du Chef Bwork: 33 460
+Cape du Chef Bwork: 22 661
+Slip du Chef Bwork: 26 618
+Casque du Chef Bwork: 23 363
+Amulette du Chef Crocodaille: 12 800
+Bracelet du Chef Crocodaille: 18 204
+Lame du Chef Crocodaille: 25 528
+Pantoufles Crochues du Chef Crocodaille: 14 340
+Petit sac d'ecolier du Chef Crocodaille: 15 271
+Ceinture du Chef Crocodaille: 10 721
+Coiffe du Chef Crocodaille: 13 405
+Epee de Yingnitie: 0
+Epee de Yanguru: 0
+Sanglature: 254
+Pieds du Sanglier: 434
+Anneau du Sanglier: 143
+Araknoton: 96
+Araknoture: 70
+L'Araknacoiffe: 113
+La Trancheuse d'Arakne: 193
+Mos Kitano: 558
+Sac du Petit Moskito: 1 792
+Moskitogalurette: 611
+Amulette du Moskito: 392
+Anneau du Champ Champ: 286
+Alliance Du Champ Champ: 0
+Champcoiffe: 1 626
+Cape du Champ Champ: 487
+Amulette du Bandit: 6 538
+Dagues du Bandit: 4 786
+Ceinture du Bandit: 6 071
+Coiffe du Prespic: 1 104
+Cape du Prespic: 1 316
+Anneau du Prespic: 366
+Ceinture du Prespic: 1 056
+Casque du Craqueleur: 27 239
+Craquelocape: 20 636
+Bottes du Craqueleur: 5 900
+Craquamulette: 7 995
+Ceinture du Craqueleur: 28 687
+Scaracoiffe Verte: 17 100
+Scaracoiffe Rouge: 10 175
+Scaracoiffe Blanche: 3 821
+Scaracoiffe Bleue: 2 758
+Scaracape Verte: 6 000
+Scaracape Bleue: 2 878
+Scaracape Rouge: 3 973
+Scaracape Blanche: 4 202
+Scaranneau Vert: 2 700
+Scaranneau Rouge: 1 987
+Scaranneau Blanc: 0
+Scaranneau Bleu: 1 343
+Scarature Verte: 2 700
+Scarature Blanche: 3 659
+Scarature Rouge: 2 132
+Scarature Bleue: 2 638
+Coiffe du Mulou: 68 122
+Bottines du Mulou: 14 340
+Cape du Mulou: 49 750
+String du Mulou: 10 400
+Anneau du Mulou: 5 913
+Lame du Craqueleur: 7 492
+Anneau du Bandit: 1 383
+Dagues Lassay: 133 840
+Dagues Receuses: 201 420
+Dagues de l'Apprenti Tueur de Bouftons: 81 632
+Sulik: 34 630
+Krokop: 32 847
+Phalene: 151 913
+Goyave: 12 522
+Kannipiou: 27 777
+Cape Ricefini: 12 547
+Cape Hote: 6 869
+Cape Houte: 53 806
+Anneau Stradamus: 8 363
+Anneau Fioutioure: 13 070
+Alliance d'Elya Wood: 84 111
+Medaille Lahilama: 2 926
+Bambamulette: 2 830
+Talisman du Faucheur d'Avoine: 5 506
+La Resinette: 18 904
+Talisman d'Elya Wood: 51 200
+Cape du Desir O'Boul: 58 552
+La Doubitch O'Boul: 19 200
+Baton de Sangroku: 39 951
+Ceinture de Sangroku: 32 133
+Pendule du Gudule: 10 432
+Casque de Maitre Nabur: 60 697
+Canne de Mamie Bonbon: 42 987
+Couronne du Roi Gelax: 5 759
+Ceinture Noire de Frank Lee Bruce: 14 096
+Arc de Kuri: 18 048
+Krepite: 27 890
+Octovius: 20 589
+Bouclier d'entrainement: 0
+Epee du Chevalier de Glace: 3 371
+La Xyothine: 203 539
+Tongues Baques: 14 300
+Larvamulette: 1 836
+Larvabottes: 4 261
+Larvasac: 2 544
+Larvacoiffe: 6 033
+Baguette Larvesque: 1 991
+Anneau Merta: 20 565
+Alliance Ethnique: 0
+Anneau K'Tuelle: 37 842
+Anneau Ha: 29 972
+Anneau He: 15 800
+Anneau Zocomial: 6 837
+Anneau Vice: 330
+Anneau Bsene: 7 457
+Anneau Karina: 5 909
+Anneau Piaume: 11 308
+Anneau Rigami: 954
+Medaille Kido: 54 400
+Cape Huccino: 11 782
+Ortiz: 22 790
+Ceinture Sula: 61 702
+Xenature: 16 861
+Holoune: 129 111
+Piruk: 56 953
+Solomonk: 23 627
+Blemiche: 23 980
+Coiffe du Gaddie: 61 388
+La Bertheuze: 32 493
+La Bekille: 59 331
+Koloss: 0
+Kanistere: 73 092
+Marteau Hubohu: 0
+Marteau M'Pouce: 23 855
+Marteau Nairedeubrest: 109 058
+Marteau Ronto: 21 417
+Marteau Ksain: 102 757
+Marteau Lahre: 82 712
+Marteau Piniere: 63 902
+Arc Hanne: 73 379
+Arc Assin: 18 729
+Arc Lavoine: 93 663
+Arc Huledela: 90 286
+Arc Hisedaisange: 215 305
+Baguette Nah: 35 046
+Baguette Cetera: 14 692
+Baguette Hylique: 24 346
+Baguette Hincelle: 36 083
+Baguette Ourderie: 136 230
+Baguette Rhon: 20 352
+Baguette Rangleuse: 1 399
+Cape Pandawushu: 1 137
+Racine Cithi: 100 635
+Bandeau Pandawushu: 271
+Racine Horodon: 36 920
+Racine Semilla: 74 587
+Racine Hecouanone: 17 659
+Racine Huzohide: 33 746
+Racine Histre: 23 500
+Racine Hecure: 131 532
+Jakchir Arc: 42 533
+Dagues Rhumes: 75 406
+Rod Gerse: 424 086
+Dagues Maydhyn China: 46 656
+Sertisseur de Ramougre: 17 504
+Griffe de Grizmine: 27 506
+Epee du Dark Vlad: 51 007
+Arc Anum: 18 989
+Karnak: 136 230
+Marteau Bleuronne: 25 376
+Razoir du Soir: 38 339
+Glaive Iceration: 140 859
+Sabre Shodanwa: 3 354
+Sabre Nidanwa: 15 520
+Sabre Sandanwa: 25 043
+Sabre Yondanwa: 45 821
+Baton du Shodanwa: 12 282
+Baton du Nidanwa: 19 240
+Baton du Sandanwa: 13 504
+Baton du Yondanwa: 42 661
+Hache du Sandanwa: 17 814
+Hache du Yondanwa: 30 685
+La Trancheuse de Bambou: 0
+Pelle Rhon: 18 269
+Sandales Macien: 1 922
+Sandales Humeuses: 23 900
+Sandales Koliques: 14 340
+Sandales Hambic: 81 260
+Sandales Adin: 7 125
+Sandales Ailuya: 35 073
+Collier du Tanukoui San: 108 800
+Chapeau Akwadala: 19 168
+Chapeau Terrdala: 55 275
+Chapeau Feudala: 29 967
+Chapeau Aerdala: 45 985
+Cape Akwadala: 8 467
+Cape Terrdala: 42 891
+Cape Feudala: 24 437
+Cape Aerdala: 22 918
+Ceinture Akwadala: 0
+Ceinture Terrdala: 0
+Ceinture Feudala: 50 497
+Ceinture Aerdala: 22 025
+Geta Akwadala: 15 120
+Geta Terrdala: 31 070
+Geta Feudala: 40 630
+Geta Aerdala: 38 240
+Alliance Akwadala: 0
+Alliance Terrdala: 76 017
+Alliance Feudala: 79 853
+Alliance Aerdala: 4 075
+Amulette Akwadala: 26 798
+Amulette Terrdala: 67 200
+Amulette Feudala: 57 600
+Amulette Aerdala: 38 874
+Baton Akwadala: 10 998
+Hache Terrdala: 90 995
+Dagues Aerdala: 46 902
+Sabre Feudala: 43 260
+Coiffe du Kitsou: 38 935
+Cape du Kitsou: 31 469
+Anneau du Kitsou: 31 000
+Amulette du Kitsou: 34 657
+Baguette Houalle: 47 287
+Sandales Titude: 74 090
+Bottes Harry: 234 220
+Cape Itaineflam: 32 436
+Coiffe du Bimd'Oule: 101 999
+Capodindo: 7 170
+Chapodindo: 4 325
+Botodindo: 7 409
+Anodindo: 7 060
+Goldoture: 60 436
+Ougalurette: 219 622
+Amulette du Boufcoul: 0
+Anneau du Boufcoul: 1 224
+Marteau du Boufcoul: 7 263
+Bottes du Boufcoul: 0
+Cape du Boufcoul: 7 950
+Ceinture du Boufcoul: 0
+Coiffe du Boufcoul: 10 386
+Coiffe du Koulosse: 26 099
+Sac du Koulosse: 23 453
+Bottes du Koulosse: 19 120
+Baton du Koulosse: 24 974
+Ceinture d'une Femme en Or: 15 798
+Couronne du Tofu Royal: 174 470
+Amulette du Koalak: 12 616
+Anneau du Koalak: 9 529
+Arc du Koalak: 8 904
+Bottes du Koalak: 19 120
+Cape du Koalak: 15 632
+Ceinture du Koalak: 16 666
+Coiffe du Koalak: 9 139
+Baguette Gyver: 133 641
+Baguette Iots: 30 369
+Baton des Caraibes: 97 260
+La Canne Biere: 210 389
+Les Dagues du Bouwin: 112 811
+L'Epee Rilleuse: 81 170
+Le Sabre Ayassalama: 27 300
+Marteau Mawoque: 44 498
+Marteau Xiko: 83 650
+La Hache Menbien: 82 027
+La Hache Ticot: 28 347
+Le Fendoir Tichaud: 164 536
+Arc Rainier: 71 137
+Arc Chtelion: 94 481
+Amulette du Tofu: 0
+Anneau du Tofu: 0
+Baguette du Tofu: 300
+Pantoufles du Tofu: 1 368
+Cape du Tofu: 6 505
+Ceinture du Tofu: 3 435
+Kaskofu: 2 496
+Scaracoiffe Doree: 6 692
+Scaracape Doree: 4 440
+Baguette du Scarabosse Dore: 5 917
+Scarature Doree: 6 742
+Amulette Scarabosse Dore: 8 140
+Anneau du Scarabosse Dore: 11 687
+Scarabottes Dorees: 5 241
+Amulette Paysanne: 1 516
+Ceinturemuda du Paysan: 1 956
+Bob du Paysan: 159
+Mitaines Mitees du Paysan: 0
+Faux usee du Paysan: 4 214
+Bottes Paysannes: 0
+Amuloumulette: 16 110
+Hache du Mulou: 11 111
+Sac du Paysan: 2 344
+Scarature Noire: 15 927
+Scaracoiffe Noire: 2 960
+Scaracape Noire: 12 107
+Scaranneau Noir: 14 515
+Bottes Du Craqueleur Legendaire: 16 730
+Casque du Craqueleur Legendaire: 27 239
+Marteau du Craqueleur Legendaire: 52 976
+Craquanneau Legendaire: 17 961
+Amulette du Craqueleur Legendaire: 32 000
+Ceinture du Craqueleur Legendaire: 28 687
+Tete de Citwouille: 0
+Kabuto: 19 664
+Craquelocape Legendaire: 20 636
+Amulette du Piou Rouge: 310
+Amulette du Piou Bleu: 141
+Amulette du Piou Violet: 127
+Amulette du Piou Vert: 131
+Amulette du Piou Jaune: 100
+Amulette du Piou Rose: 96
+Anneau du Piou Rouge: 133
+Anneau du Piou Bleu: 140
+Anneau du Piou Violet: 49
+Anneau du Piou Vert: 0
+Anneau du Piou Jaune: 178
+Anneau du Piou Rose: 128
+Sandales du Piou Rouge: 0
+Sandales du Piou Bleu: 143
+Sandales du Piou Violet: 48
+Sandales du Piou Vert: 310
+Sandales du Piou Jaune: 0
+Sandales du Piou Rose: 95
+Cape du Piou Rouge: 159
+Cape du Piou Bleu: 118
+Cape du Piou Vert: 54
+Cape du Piou Violet: 74
+Cape du Piou Rose: 175
+Cape du Piou Jaune: 140
+Ceinture du Piou Rouge: 158
+Ceinture du Piou Bleu: 140
+Ceinture du Piou Violet: 53
+Ceinture du Piou Vert: 199
+Ceinture du Piou Jaune: 127
+Ceinture du Piou Rose: 106
+Chapeau du Piou Rouge: 188
+Chapeau du Piou Bleu: 215
+Chapeau du Piou Violet: 171
+Chapeau du Piou Jaune: 0
+Chapeau du Piou Rose: 219
+Amulette en Mousse: 977
+Anneau en Mousse: 319
+Pelle en Mousse: 1 295
+Bottes en Mousse: 1 758
+Ceinture en Mousse: 1 109
+Cape en Mousse: 0
+Coiffe en Mousse: 2 347
+Bandeau Kaliptus: 219 303
+La Meulette: 54 400
+Anneau du Meulou: 157 172
+Bottes du Meulou: 107 550
+Cape du Meulou: 102 377
+Ceinture du Meulou: 335 720
+Coiffe du Meulou: 55 436
+Collier du Minotoror: 99 200
+Anneau du Minotoror: 36 188
+Bracelet du Minotot: 102 994
+Anneau du Dragon Cochon: 5 112
+Collier du Minotot: 89 600
+Collier du Dragon Cochon: 57 600
+Hache du Minotoror: 73 553
+Sceptre du Minotot: 59 590
+Bottes du Minotoror: 152 960
+Sandales du Minotot: 530 580
+Mules du Dragon Cochon: 52 580
+Cape du Minotoror: 113 634
+Cape du Minotot: 385 432
+Cape du Dragon Cochon: 47 868
+Ceinture du Minotoror: 50 991
+Ceinture du Minotot: 247 380
+Coiffe du Minotot: 32 452
+Coiffe du Dragon Cochon: 32 133
+Cape Dragoeuf: 50 631
+Casque Dragoeuf: 95 967
+Ceinture du Dragoeuf: 44 698
+Anneau du Dragoeuf: 16 345
+Amulette du Dragoeuf: 35 200
+Bottes du Dragoeuf: 35 850
+Epee du Dragoeuf: 90 328
+Hache du Dragoeuf: 204 056
+Marteau du Dragoeuf: 119 888
+Arc du Dragoeuf: 45 546
+Baguette du Dragoeuf: 68 261
+Baton du Dragoeuf: 55 656
+Epis de Shika: 35 200
+Bracelet Magique de Shika: 15 741
+Binette de Shika: 47 399
+Sabots de Shika: 47 800
+Cape de Shika: 30 667
+Shikature: 36 812
+Shikacoiffe: 59 439
+Coiffe de la Dragueuse: 31 493
+Cape du Papa Nowel: 0
+Chapeau du Papa Nowel: 7 986
+Bottananas: 0
+Cape du Petit Chapon Rouge: 110 854
+Dagues du Dragoeuf: 131 200
+Pelle a Gateau: 80 518
+Pelle Moh: 9 985
+Pelle Dragoeuf: 44 493
+Billreole: 58 333
+Masque du Rat Noir: 82 211
+Cape du Rat Noir: 143 419
+Dagues du Rat Noir: 62 798
+Collier du Rat Noir: 115 200
+Bottes du Rat Noir: 45 410
+Ceinture du Rat Noir: 75 646
+Gant du Rat Noir: 78 975
+Rapiere du Rat Blanc: 42 582
+Couvre-chef du Rat Blanc: 95 106
+Cape du Rat Blanc: 55 288
+Collier du Rat Blanc: 92 800
+Ceinture du Rat Blanc: 48 506
+Bottes du Rat Blanc: 35 850
+Coiffe Ceremoniale du Seigneur des Rats: 238 601
+Cape Ceremoniale du Seigneur des Rats: 244 481
+Collier Ceremonial du Seigneur des Rats: 358 400
+Anneau Ceremonial du Seigneur des Rats: 148 350
+Ceinture Ceremoniale du Seigneur des Rats: 261 022
+Bottes Ceremoniales du Seigneur des Rats: 219 880
+Abracaska Ancestral: 48 547
+Abracapa Ancestrale: 54 674
+Torque Ancestral: 70 400
+Anneau Ancestral: 21 702
+Protege-Tibias Ancestraux: 164 910
+Abrature Ancestrale: 38 570
+Talisman du Chene Mou: 150 400
+Anneau du Chene Mou: 12 107
+Tongues du dimanche du Chene Mou: 88 430
+Cape Usee du Chene Mou: 155 630
+String Automnal du Chene Mou: 192 913
+Coiffe du Chene Mou: 151 400
+Scalpel de Bworknroll: 0
+Gobtroteur: 318
+Ruskauffe: 125 378
+Le Floude: 75
+La Cape S'loque: 53
+Les Incrustes: 0
+La Spamette: 159
+Le Plussain: 218
+Le S'Mesme: 294
+Doro le Blak: 97 704
+Griffe Pourpre: 330 138
+Dagues Ruyere: 10 533
+Griffettes: 28 286
+Epee Doncule: 18 992
+Epee Zervatif: 9 969
+Le Baton Cloutay: 131 537
+La Bastonneuze: 30 638
+Geish'Arc: 53 441
+Le Kikoularc: 9 600
+Bagdette Cafe: 26 672
+La Bidjiz: 10 279
+Pelle Minstere: 14 835
+Pelle Ripe: 30 757
+Marteau Mato: 28 270
+Marteau Minokers: 177 714
+Hache Ebbah: 23 598
+Hache Eulouh: 10 526
+Casque Keutumedi: 0
+Chapeau Leufere: 0
+Chapeau Grave: 0
+Bonnet Nufar: 0
+Coiffe Fere: 0
+Chapeau Tyron: 0
+Bonnet Spairance: 0
+Capuche Apin: 0
+Chapeau Lithique: 0
+Coiffe de Robbie Capuche: 0
+Bonnet Toual: 0
+Chapeau Taufeu: 0
+Cape Aurale: 0
+Cape Aille: 0
+Cape Routh: 0
+Cape Huchon: 0
+Cape Sulhit: 0
+Cape Hitton: 0
+Cape Ytale: 0
+Cape Lyne: 0
+Cape Wera: 0
+Cape Hulco: 0
+Cape Hadosse: 0
+Cape Haharnum: 0
+Sangle Hynere: 0
+Ceinture Buhlent: 0
+Sangle Glinglin: 0
+Ceinture Lupine: 0
+Sangle Holon: 0
+Ceinture Luthe: 0
+Sangle Hans: 0
+Ceinture Bodiezele: 0
+Sangle Huee: 0
+Sangle Cible: 0
+Gaine Hage: 0
+Ceinture Gessant: 0
+Bottes Antrin: 148 180
+Charentaises a poils: 133 840
+Bottes Hox: 71 700
+Bottes Hairo: 76 480
+Bottes Ulisme: 0
+Bottes Hanik: 93 210
+Tong Aclou: 112 330
+Bottes Swana: 126 670
+L'Epee Nice: 142 918
+Coiffe du Tynril: 22 400
+Le Nahitse: 129 262
+Anneau Bhli: 0
+Bague Houx: 0
+Bague Hera: 0
+Bague Harre: 0
+Anneau Tassion: 0
+Anneau Stalgik: 0
+Anneau Zamour: 0
+Anneau Raille: 0
+Anneau Hell: 129 757
+Anneau Tilus: 0
+Anneau Pwal: 0
+Anneau Pitale: 0
+Chaussures Lepon-Davignon: 78 870
+Bottes Antouche: 102 770
+Bottes Deuradi: 0
+Cape Souveraine du Roissingue: 598 331
+Cape de la Ouassingue: 80 723
+Masque du Sergent Zoth: 314 857
+Coiffe du Disciple Zoth: 250 077
+Masque de l'Abrakleur clair: 205 400
+Masque de l'Abrakleur sombre: 28 177
+Kaskargo: 246 979
+Masse du Corailleur Magistral: 46 110
+Marteau de la Gamine Zoth: 157 707
+Hache du Guerrier Zoth: 166 400
+Chapeau de Barbroussa: 11 430
+Masse du Corailleur: 46 110
+Branche de l'Abrakleur sombre: 46 900
+Branche de l'Abrakleur clair: 37 807
+Tige du Brouture: 57 068
+Baton du Maitre Zoth: 201 886
+Rhizome du Tynril: 49 383
+Masque Vaudou Eth: 96 100
+Masque Vaudou Jav: 216 659
+Masque Vaudou Sarbak: 286 909
+Masque Vaudou Ark: 157 366
+Chapeau de Crocodaille Dandi: 144 113
+Capuche Souveraine du Roissingue: 708 010
+Capuche de la Ouassingue: 43 330
+Chapeau de la Gamine Zoth: 281 111
+Casque du Guerrier Zoth: 423 131
+Coiffe du Maitre Zoth: 95 734
+Racine de Fecorce: 119 900
+Racine de Floribonde: 193 901
+Ceinture Rasboulaire du Rasboul: 424 326
+Bottes Horchons: 138 620
+Sceau Souverain du Roissingue: 336 500
+Alliance de Corail: 15 107
+Sandales Circulaires du Kimbo: 298 750
+Ceinture Bitoufale de Prosper Youpla: 296 723
+Zothulette: 218 878
+Kask'Arc Go: 11 630
+Anneau Skargo: 111 627
+Puissante Cape Fulgurante: 400 000
+Cape de la Meupette: 31 088
+Poolache: 93 703
+Bottines en bois d'abrakleur: 258 120
+Ceinture sombre en Abrakleur: 45 085
+Ceinture Claire en Abrakleur: 500 521
+Palmano: 16 574
+Krustoture: 5 981
+Ouassulette: 188 800
+Voile d'encre: 2 213 714
+Kralano: 3 387 886
+Kidorteau: 8 875
+Anneau Poli: 12 580
+Amufafah: 28 680
+Anneau Solo: 263
+Casque ameliore: 0
+Ailes en bois ameliorees: 5 185
+Arc a Chon: 43 837
+Arc Oleptik: 355 816
+Dagues Adou: 289 444
+Dagues Eudin: 409 000
+Dagues Ruik: 64 782
+Kriss Toubal: 96 259
+Fuschia: 106 675
+Az'tech: 199 394
+Kukri Kura: 90 907
+Hache Sueur Rance: 87 054
+Hache Harnee: 321 092
+La Beche a Mel: 151 074
+Pelle Shattkitou: 105 329
+Pelle Aigante: 53 518
+Patte d'Ecaflip: 10 144
+Casque du Bitouf Aerien: 248 560
+Annolamour: 280 540
+Faux Maudite du Saigneur Guerrier: 143 094
+Epee Maudite du Saigneur Guerrier: 140 169
+Ougarteau: 0
+Blopanneau Griotte: 13 738
+Blopanneau Reinette: 10 605
+Blopanneau Coco: 10 828
+Blopanneau Indigo: 23 930
+Blopanneau Griotte Royal: 13 738
+Blopanneau Reinette Royal: 10 605
+Blopanneau Coco Royal: 10 828
+Blopanneau Indigo Royal: 23 930
+Ougamulette: 230 400
+Anneau Colerette: 64 746
+Anneau Chevelu: 59 366
+Alliance Boletee: 188 405
+Arc a Lamelles: 388 994
+Baguetterelle: 238 293
+Baton Champmanique: 181 390
+Couteaux a Champignons: 50 896
+Hache a Lamelles: 100 774
+Bottines des sous-bois: 401 520
+Chaussons Pignons: 164 910
+Caprin: 218 600
+Capignon: 87 509
+String Tue-Mouche: 169 700
+Ceinture Mycosine: 112 068
+Tranche des Sous-bois: 98 300
+Ougature: 402 500
+Chapignon: 161 575
+Blopanneau Multicolore Royal: 11 670
+Amublop Griotte: 22 400
+Amublop Reinette: 19 200
+Amublop Coco: 16 000
+Amublop Indigo: 12 800
+Amublop Griotte Royale: 22 400
+Amublop Reinette Royale: 19 200
+Amublop Coco Royale: 16 000
+Amublop Indigo Royale: 12 800
+Amublop Multicolore Royale: 38 400
+Bloptes Griottes: 4 003
+Bloptes Reinette: 11 950
+Bloptes Coco: 22 836
+Bloptes Indigo: 16 730
+Bloptes Griotte Royales: 14 842
+Bloptes Reinette Royales: 11 950
+Bloptes Coco Royales: 22 836
+Bloptes Indigo Royales: 16 730
+Bloptes Multicolores Royales: 23 900
+Blopture Griotte: 24 005
+Blopture Reinette: 22 609
+Blopture Coco: 35 095
+Blopture Indigo: 13 973
+Blopture Griotte Royale: 24 005
+Blopture Reinette Royale: 22 609
+Blopture Coco Royale: 35 095
+Blopture Indigo Royale: 13 973
+Blopture Multicolore Royale: 52 600
+Lame Assacre: 217 466
+Bracelet Ventre: 172 579
+Anneau Blitere: 95 200
+Amulette Ripage: 355 200
+Cape Erforee: 144 719
+Casque Harnage: 296 917
+Bottes Repane: 169 690
+Ceinture Tore: 179 372
+Ceinture de Flash Gorgone: 5 698
+Beignature: 3 725
+Tartamulette: 5 783
+Anneau Paupayahn: 8 209
+Bottes Paupayahn: 10 258
+Tutu Rose: 8 365
+Chapblopignon: 89 826
+Blopronne Royale: 260 663
+Pantoufrelons: 3 253
+Jambanneau: 2 043
+Ceinture Lardiere: 1 326
+Ceinture du bois de l'est: 1 095
+Bottes du bois de l'est: 3 385
+Anneau Zest: 131
+Bague Cristalline: 1 106
+Ceinture Cristalline: 12 800
+Pompamulette: 1 560
+Pompanneau: 1 786
+Le Kim: 439 571
+Amunite: 144 000
+Kralamansion: 8 707 200
+Pelle Emelaka: 194 866
+Epee Loponeze: 249 152
+Souliers laques du Parrain: 3 634
+Grosse Bagouze du Parrain: 7 489
+Calecon a bretelles du Parrain: 11 618
+Ceinture du Black Wab: 3 713
+Bottines du Black Wab: 10 754
+Crocodaille: 144 113
+Sandales Papayou: 8 697
+Les Sleumpettes: 7 973
+Amulette Papayou: 11 146
+Collier Sleump: 15 222
+Anneau de Slait: 13 186
+Bottes de Slait: 2 999
+Bracelet du Tetounik: 7 448
+Ceinture du Tetounik: 1 408
+Chaussures du Tetounik: 45 339
+Fulgu au poing: 10 688
+Golbottes: 16 507
+Bottes Siks Won Naine: 8 505
+Ceinture Siks Won Naine: 17 659
+Anneau de la mort: 5 613
+Les Chaplures: 6 696
+La Chaplivate: 14 038
+Marteau Martel: 246
+Marteau de Forgeur de Grattoir: 96
+Tailladeuse de Manche: 0
+Anneau du Vampyre: 0
+Amulette du Vampyre: 0
+Ceinture du Vampyre: 0
+Cape du Vampyre: 0
+Bottes du Vampyre: 0
+Masque du Vampyre: 0
+Yugolette: 14 930
+Yugoufle: 7 232
+Yugure: 0
+Chispottes: 43 089
+Mitaines de Chisp: 0
+Collertue: 14 069
+Libottes: 4 472
+L'Esteban: 9 015
+Anneau solaire: 2 220
+Collier de Noke: 5 886
+Oxano: 619
+Bottines de la Denree: 4 771
+L'oxolature: 7 291
+Les Maidartes: 468 440
+Gantelet du Real Boitar: 11 296
+Gantelet des Bouftons Rouges: 13 458
+Ceinture de Tolot: 27 572
+Ceinture de Mounu: 13 786
+Bottes du Real Boitar: 12 418
+Bottes des Bouftons Rouges: 17 888
+Anneau de Kocksis: 12 203
+Bottes de Kocksis: 14 173
+Ceinture de Kocksis: 7 654
+Amulette de Gobeuf: 8 430
+Ceinture de Gobeuf: 6 901
+Anneau de Gobeuf: 14 167
+Amulette de Laikteur: 0
+Anneau de Laikteur: 11 153
+Bottes de Laikteur: 9 656
+Amulette de Rekto Topi: 6 660
+Ceinture de Rekto Topi: 11 653
+Bottes de Rekto Topi: 0
+Anneau de Grizou: 10 310
+Bottes de Grizou: 13 117
+Ceinture de Grizou: 15 995
+Casque du Roks Or: 0
+Cape du Roks Or: 0
+Anneau du Roks Or: 0
+Ceinture du Roks Or: 0
+Chapeau de l'intrepide: 0
+Casque de boufbowl: 2 238
+Banana Cape: 5 040
+Coiffe Wouaf: 624
+Boufbamu: 16 104
+Phero-Cape: 26 508
+Bottes d'Hulkrap: 15 585
+Ceinture d'Hulkrap: 4 647
+Ceinture de Kloug: 11 385
+Amulette d'Hulkrap: 13 539
+Amulette de Kloug: 7 960
+Anneau de Kloug: 12 987
+Anneau du Corbeau Noir: 1 678
+Bottes du Corbeau Noir: 1 974
+Bottes de Rapine: 1 034
+Ceinture de Rapine: 2 506
+Amulette de Rapine: 2 337
+Sac ripant: 0
+Anneau de Phong Huss: 5 706
+Ceinture de Phong Huss: 1 638
+Bottes de Phong Huss: 3 700
+Amulette d'Hectaupe: 9 175
+Anneau d'Hectaupe: 0
+Givrature: 1 659
+Givrabottes: 3 546
+Cordon Pere au gnon: 7 492
+Clementamulette: 1 766
+Clementobottes: 3 488
+Ceinture Pomdeupin: 5 581
+Anneau Pomdeupin: 17 920
+Bottes de Lonne: 12 896
+Bottes de Boufbowl: 10 595
+Bague de Boufbowl: 2 560
+Ceinture de Gadjete: 2 734
+Anneau de Gadjete: 13 809
+Bottes de Grilliane: 6 016
+Amulette de Grilliane: 7 313
+Epee Tillante: 16 116
+Bottes de Rapiat: 11 111
+Ceinture de Rapiat: 9 810
+Amulette de Rapiat: 9 817
+Anneau d'Ougicle: 22 803
+Ceinture d'Ougicle: 19 761
+Amulette d'Ougicle: 10 508
+Anneau de Karotz: 24 753
+Amulette de Karotz: 6 199
+Bottes de Karotz: 31 805
+Anneau de Grouillot: 12 095
+Bottes de Grouillot: 11 243
+Ceinture de Grouillot: 10 340
+Bottes de Kubitus: 9 560
+Ceinture de Kubitus: 12 918
+Amulette de Kubitus: 13 818
+Anneau de Piggy Paupe: 19 504
+Ceinture de Piggy Paupe: 32 422
+Amulette de Piggy Paupe: 19 200
+Amupapier: 24 164
+Slipapier: 26 075
+Plumodales: 7 435
+Plumamulette: 12 100
+Anoppinz: 8 809
+Bottoppinz: 5 267
+Amusonnier: 7 590
+Ceintusonnier: 25 609
+Anauffe-souris: 15 850
+Bottauffe-souris: 8 488
+Bottinokio: 25 900
+Anokio: 8 110
+Bottes de Kabroule: 2 560
+Frimamulette: 825 600
+Frimanneau: 166 500
+Gresilanneau: 779 230
+Gresilobottes: 793 480
+Gresilocape: 0
+Frimature: 701 651
+Frimacoiffe: 635 396
+Gresilosceptre: 772 486
+Amulette Ementaire: 403 200
+Coiffe du Royalmouth: 183 770
+Couronne du Mansot Royal: 129 630
+Chapeau de Ben le Ripate: 400 508
+Casque de l'Obsidiantre: 566 836
+Amulette du Royalmouth: 41 600
+Amulette de l'Obsidiantre: 329 600
+Anneau du Mansot Royal: 177 277
+Crochet de Ben le Ripate: 187 175
+Bague de l'Obsidiantre: 353 153
+Cape du Mansot Royal: 178 186
+Cape de l'Obsidiantre: 289 825
+Bottes du Royalmouth: 141 010
+Bottes de l'Obsidiantre: 518 630
+Ceinture du Royalmouth: 82 012
+Ceinture de Ben le Ripate: 230 662
+Sabre de Ben le Ripate: 375 104
+Coiffe du Fricochere: 271 765
+Fantomasque: 348 717
+Masque du Harpirate: 409 783
+Chapeau Pourih: 451 524
+Chapeau Stapokaliptik: 363 535
+Cape Ricieuse: 123 515
+Cape Tivante: 474 155
+Collier Ye: 278 400
+Talisman Choh: 304 000
+Talisman Doline: 99 200
+Slip Hie: 132 653
+Slip Noze: 452 603
+Sandales Gorithme: 303 152
+Sandales Binosse: 439 760
+Anneau Frage: 173 390
+Anneau Made: 123 474
+Anneau Nobstant: 133 719
+Anneau Tabene: 334 132
+Sabre Heutelle: 165 915
+Hache Haimenu: 230 018
+Hache du Fancrome: 197 902
+Arc Tangente: 347 340
+Youyettes: 217 234
+Marteau R'Gnole: 556 438
+Marteau de la Vigie Pirate: 449 847
+Baguette Hernuement: 530 314
+Baton K'Tueuh: 327 430
+Baton du Shamansot: 117 001
+Lance du Harpirate: 172 232
+Bottes Hoktone: 119 500
+Pagniglou: 81 376
+Chapeau Tiche: 535 851
+Ceinture du Tengu Givrefoux: 394 624
+Bottes du Tengu Givrefoux: 305 920
+Hache du Korriandre: 571 670
+Cape du Korriandre: 377 928
+Amulette du Korriandre: 576 000
+Anneau du Korriandre: 339 824
+Coiffe de Kolosso: 0
+Ceinture de Kolosso: 643 143
+Anneau de Kolosso: 722 591
+Masque du Glourseleste: 289 319
+Cape du Glourseleste: 974 812
+Amulette du Glourseleste: 636 800
+Ceinture du Glourseleste: 0
+Bottes du Glourseleste: 1 398 150
+Chapeau Lichinelle: 328 268
+Chapeau Lisson: 155 291
+Chapeau Lochon: 745 745
+Cape Surde: 450 774
+Cape Peupret: 505 223
+Cape Hiculteur: 1 153 421
+Amulette Heroclite: 332 800
+Amulette Hendart: 899 200
+Pagne du Soryo Givrefoux: 485 012
+Ceinture Hanium: 1 117 016
+Alliance Hestrale: 282 973
+Alliance Sorcelee: 548 702
+Bracelet Ming: 1 763
+Anneau Aimgeroks: 592 000
+Bottines Hertie: 437 370
+Bottines Hodore: 578 380
+Sandales Pinistes: 1 137 640
+Epee Kadille: 138 028
+Epee Kari: 289 235
+Epee Toche: 726 194
+Marteau Racle: 173 861
+Marteau Reine: 828 731
+Marteau du Glouragan: 937 346
+Baton Brelle: 747 438
+Baton Brageut: 775 312
+Dagues Imauve: 206 800
+Dagues Acantes: 317 918
+Dagues Hirr: 607 468
+Arc Ontanporin: 510 329
+Arc Hetype: 521 006
+Arc Ahique: 843 377
+Baguette Nolog: 325 547
+Baguette Hernelle: 102 311
+Baguette Hique: 2 018
+Hache Achinecride: 233 650
+Hache Teroide: 272 129
+Pelle Dorado: 357 662
+Pelle Fik: 979 534
+Givrefoux: 1 208 868
+Amulette Ementaire Deluxe: 403 200
+Racine Hueuse: 630 400
+Bottes en peau de Prespic: 0
+Ceinture de Percimol: 6 075
+Pelle Vetik: 410 861
+Slip Iholo: 399 130
+Bottes de Stroud: 0
+Ceinture de Stroud: 7 204
+Hache Heleme: 398 556
+Amulette du Boostache: 7 966
+Alliance du Kanniboul Ebil: 3 008
+Anneau du Boostache: 6 308
+Bottes du Kanniboul Ebil: 9 392
+Cape du Boostache: 14 693
+Ceinture du Boostache: 10 166
+Masque du Kanniboul Ebil: 2 129
+Sceptre du Kanniboul Ebil: 4 707
+Kwakwalame: 11 467
+Kwakwanneau: 8 397
+Kwakwalliance: 13 724
+Kwakwaffe: 9 547
+Ceinture de Tracon: 5 120
+Bottes de Tracon: 22 843
+Amulette de Tracon: 13 167
+Anneau de Mirh: 10 322
+Ceinture de Mirh: 6 909
+Amulette de Mirh: 19 200
+Amulette de Logram: 8 050
+Anneau de Logram: 13 631
+Slip de Kalkaneus: 7 734
+Botte de Kalkaneus: 5 403
+Amulette de Kalkaneus: 5 345
+Alliance d'Hichete: 3 771
+Ceinture d'Hichete: 11 912
+Amulette d'Hichete: 7 678
+Bottes d'Haku: 14 361
+Amulette d'Haku: 22 030
+Anneau d'Haku: 6 110
+Le Thanos: 377 493
+Ceinture Bine: 451 834
+Amulette de Nelween: 23 020
+Cape de Nelween: 17 362
+Bottes de Nelween: 6 958
+Ceinture de Nelween: 8 741
+Mourtheau: 78 675
+Anneau Moutheur: 151 406
+Bague Moutheuze: 59 310
+Cape Mouthante: 241 146
+Baguette de Frigostine: 110 537
+Amulette de Frigostine: 172 800
+Anneau de Frigostine: 171 945
+Ceinture de Frigostine: 147 833
+Bottes de Frigostine: 265 290
+Cape de Cantile: 138 621
+Anneau de Cantile: 187 715
+Amulette de Cantile: 156 800
+Bottes de Cantile: 293 970
+Anneau des Prophetes: 231 768
+Ceinture des Prophetes: 546 621
+Baton des Prophetes: 417 924
+Anneau de Guten Tak: 489 389
+Alliance de Guten Tak: 436 316
+Amulette de Guten Tak: 332 800
+Arc de Guten Tak: 467 190
+Bague de Boreale: 264 714
+Ceinture de Boreale: 674 474
+Coiffe de Boreale: 604 232
+Bottes de Boreale: 480 390
+Cape du Professeur Xa: 883 200
+Anneau du Professeur Xa: 559 260
+Bottes du Professeur Xa: 499 200
+Amulette du Professeur Xa: 738 510
+Pelle du Professeur Xa: 649 600
+Alliance Gloursonne: 546 643
+Bague Gloursonne: 416 117
+Epee Gloursonne: 0
+Coiffe du Glourseleste: 1 438 991
+Cape de la Fuji Givrefoux: 795 870
+Coiffe de la Fuji Givrefoux: 1 208 868
+Bottes de la Fuji Givrefoux: 709 830
+Anneau de la Fuji Givrefoux: 826 774
+Amulette du Gorgouille: 32 000
+Cape du Gorgouille: 31 131
+Gantelet du Gorgouille: 33 333
+Bottes du Gorgouille: 28 680
+Bracilozite: 0
+Bottilozite: 12 177
+Coiffe Ainte: 0
+Masque Arpone: 0
+Cape Endaison: 0
+Cape Aircussion: 0
+Bottes Opsy: 9 560
+Sabots Taj: 69 310
+Sangle Hysserine: 0
+Corde Ure: 0
+Mitaine Aibre: 0
+Bracelet Jande: 824 550
+Amulette du Krokilleur: 246 400
+Amulette de Grozilla: 800 000
+Anneau du Vulkain: 17 504
+Bracelet du Vulkain: 14 852
+Bottes du Vulkain: 28 680
+Bottes de Grozilla: 824 550
+Cape du Krokilleur: 263 386
+Sac de Voyage du Parfait Petit Vulkain: 12 470
+Ceinture du Krokilleur: 292 664
+Ceinture de Grozilla: 0
+Chapeau du Vulkain: 16 826
+Coiffe de Grozilla: 821 768
+Amulette Tetriste: 740
+Anneau Tetriste: 0
+Slip Vert: 9 080
+Boracelet: 0
+Ceinture de Pandalida: 15 680
+Anneau de l'Envahisseur: 696
+Ceinture de l'Envahisseur: 640
+Tacleur: 0
+Tacleur majeur: 0
+Fuyard mineur: 0
+Fuyard: 0
+Fuyard majeur: 0
+Ralentisseur: 0
+Ralentisseur majeur: 0
+Engourdisseur mineur: 0
+Engourdisseur: 0
+Engourdisseur majeur: 0
+Fugitif mineur: 0
+Fugitif: 0
+Fugitif majeur: 0
+Insaisissable mineur: 0
+Insaisissable: 0
+Insaisissable majeur: 0
+Pousseur mineur: 13 836
+Pousseur: 0
+Pousseur majeur: 0
+Adamantin mineur: 0
+Adamantin: 0
+Adamantin majeur: 0
+Rempart mineur: 0
+Rempart: 0
+Rempart majeur: 0
+Cuirasse Air mineur: 2 375
+Cuirasse Air: 0
+Cuirasse Air majeur: 0
+Cuirasse Eau mineur: 7 137
+Cuirasse Eau: 0
+Cuirasse Eau majeur: 0
+Snarmulette: 15 416
+Cosmobracelet: 2 256
+Cuirasse Feu mineur: 0
+Ceinture de Danioule: 19 119
+Sabottes de Danioule: 15 113
+Coiffe de Daigoro: 18 753
+Collier Rouge de Daigoro: 41 600
+Pagne de Daigoro: 30 525
+Baton de Daigoro: 54 223
+Cuirasse Feu: 0
+Cuirasse Feu majeur: 0
+Cuirasse Terre mineur: 0
+Cuirasse Terre: 0
+Cuirasse Terre majeur: 0
+Cuirasse Neutre mineur: 0
+Cuirasse Neutre: 0
+Cuirasse Neutre majeur: 0
+Ravageur Air: 0
+Ravageur Air majeur: 0
+Ravageur Air mineur: 7 995
+Ravageur Eau: 0
+Ravageur Eau majeur: 0
+Ravageur Eau mineur: 0
+Ravageur Feu: 0
+Ravageur Feu majeur: 0
+Ravageur Feu mineur: 1 128
+Ravageur Neutre: 0
+Ravageur Neutre mineur: 0
+Ravageur Neutre majeur: 0
+Ravageur Terre: 0
+Initiateur: 0
+Initiateur mineur: 0
+Initiateur majeur: 0
+Porteur mineur: 0
+Porteur: 0
+Porteur majeur: 0
+Soigneur mineur: 0
+Soigneur majeur: 88 749
+Soigneur: 88 749
+Acrobate mineur: 8 925
+Acrobate: 0
+Acrobate majeur: 0
+Joueur: 963 170
+Joueur majeur: 0
+Joueur mineur: 0
+Savant mineur: 0
+Savant majeur: 0
+Savant: 0
+Furibond mineur: 27 930
+Furibond: 0
+Furibond majeur: 0
+Survivant: 0
+Survivant majeur: 0
+Survivant mineur: 0
+Ravageur Terre majeur: 0
+Ravageur Terre mineur: 0
+Ceinturong: 159
+Amulettong: 370
+Pacmamulette: 2 261
+Pacmabottes: 0
+Raquettes Dugraal: 31 070
+Ceinture Abdominable: 58 389
+Bonnet du Glutin: 29 816
+Calecon Fourre du Glutin: 22 940
+Bracelet du Glutin: 75 086
+Cape du Nowel Cauchemardesque: 111 130
+Masque du Nowel Cauchemardesque: 132 978
+Porte-Malheur du Nowel Cauchemardesque: 179 200
+Bottes du Nowel Cauchemardesque: 119 500
+Sacoche de Redolphe: 55 242
+Coiffe de Redolphe: 61 918
+Licol de Redolphe: 70 400
+Sabots de Redolphe: 112 752
+Peignentif: 12 048
+Gladialecon: 10 828
+Gladiabottes: 9 086
+Bracelet du Minotoboule: 154 407
+Ceinturoduvet: 18 105
+Bottoduvet: 11 950
+Sabots Aiguilles de Feline: 16 730
+Collier de Feline: 18 001
+Katar Strophe: 48 062
+Marteau du Chafer Draugr: 7 808
+Ceinture de Brouce: 615 162
+Anneau de Brouce: 695 810
+Bottes de Brouce: 755 240
+Amulette d'Otomai: 742 400
+Bottes d'Otomai: 685 930
+Epee d'Otomai: 1 880
+Coiffe de Danathor: 838 649
+Amulette de Danathor: 668 800
+Ceinture de Danathor: 586 622
+Couronne d'Allister: 489 696
+Anneau d'Allister: 560 813
+Bottes d'Allister: 543 837
+Ceinture de Lethaline: 405 834
+Bottes de Lethaline: 717 000
+Coiffe d'Ogivol: 753 020
+Cape d'Ogivol: 239 504
+Ceinture d'Ogivol: 459 568
+Casque de Metag Robill: 57 348
+Caskoffre: 5 405
+Ceinture de Coffrete: 10 622
+Pendentiffre: 19 200
+Boffes Cottre: 9 009
+Amulette de Pwak: 6 080
+Chapeau Potin: 134 400
+Cape Reski: 109 199
+Canne Hassukre: 764 434
+Scaphandre Ojine: 0
+Sac Rebleux: 0
+Bottes Omates: 78 870
+Ceinture Blot: 0
+Bague Rafe: 0
+Bracelet Gume: 6 907
+Bottes O'Feu: 20 296
+Bottes Hedivines: 10 125
+Ceinture Nikoti: 11 411
+Ceinture Teule: 22 334
+Annokami: 13 453
+Bottokami: 14 530
+Chapitrouille: 68 591
+Capitrouille: 29 118
+Ceintrouille: 54 708
+Ratrouille: 58 000
+Slip de Rechange du Captain Chafer: 370
+Diplamu: 8 011
+Diplanneau: 11 710
+Araknacoiffe Velue: 89 786
+Krosmangle: 34 944
+Krosmaussures: 26 290
+Ballerines Roses: 49 885
+Baguette du Grand Glucid: 219 319
+Coffresac du Koalak: 198 610
+Anneau d'Henual: 726 033
+Ceinture d'Henual: 1 272 533
+Marteau d'Henual: 719 038
+Coiffe d'Oshimo: 676 486
+Amulette d'Oshimo: 796 800
+Bottes d'Oshimo: 901 030
+Cape de Nevark: 821 061
+Amulette de Nevark: 633 600
+Ceinture de Nevark: 783 651
+Cape de Theodoran Ax: 0
+Amulette de Theodoran Ax: 643 200
+Bottes de Theodoran Ax: 609 450
+Coiffe de Padgref: 538 642
+Anneau de Padgref: 815 637
+Getas de Padgref: 544 920
+Coiffe d'Hel Munster: 699 866
+Cape d'Hel Munster: 611 106
+Amulette d'Hel Munster: 640 000
+Coiffe d'Aermyne: 672 552
+Cape d'Aermyne: 1 193 844
+Rouleau a Patisserie d'Aermyne: 1 137 686
+Cape Matelassee: 524 800
+Pantoufles Emar: 579 200
+Sabots Minables: 393 600
+Bloqueur mineur: 40 110
+Bloqueur: 0
+Bloqueur majeur: 0
+Vagabond mineur: 0
+Vagabond: 0
+Vagabond majeur: 0
+Docteur mineur: 0
+Docteur: 0
+Docteur majeur: 0
+Forcene mineur: 0
+Forcene: 0
+Forcene majeur: 0
+Astucieux mineur: 20 274
+Astucieux: 0
+Astucieux majeur: 0
+Equilibriste mineur: 0
+Equilibriste: 0
+Equilibriste majeur: 0
+Taquin mineur: 0
+Taquin: 0
+Taquin majeur: 0
+Bastion mineur: 0
+Bastion majeur: 0
+Saccageur Terre mineur: 0
+Saccageur Terre: 0
+Saccageur Terre majeur: 0
+Saccageur Neutre mineur: 0
+Saccageur Neutre: 0
+Saccageur Neutre majeur: 0
+Saccageur Feu mineur: 0
+Saccageur Feu: 0
+Saccageur Feu majeur: 0
+Saccageur Eau mineur: 0
+Saccageur Eau: 0
+Saccageur Eau majeur: 0
+Saccageur Air mineur: 23 589
+Saccageur Air: 0
+Saccageur Air majeur: 0
+Entraveur mineur: 0
+Entraveur: 0
+Entraveur majeur: 0
+Paralyseur mineur: 0
+Paralyseur: 0
+Paralyseur majeur: 0
+Imprenable mineur: 0
+Imprenable: 0
+Imprenable majeur: 0
+Evanescent mineur: 0
+Evanescent: 0
+Evanescent majeur: 0
+Bousculeur mineur: 43 808
+Bousculeur: 0
+Bousculeur majeur: 0
+Inflexible mineur: 0
+Inflexible: 0
+Inflexible majeur: 0
+Precurseur mineur: 0
+Precurseur: 0
+Precurseur majeur: 0
+Muraille Terre mineure: 0
+Muraille Terre: 0
+Muraille Terre majeure: 0
+Muraille Neutre mineure: 0
+Muraille Neutre: 0
+Muraille Neutre majeure: 0
+Muraille Feu mineure: 0
+Muraille Feu: 0
+Muraille Feu majeure: 0
+Muraille Eau mineure: 0
+Muraille Eau: 0
+Muraille Eau majeure: 0
+Muraille Air mineure: 0
+Muraille Air majeure: 0
+Puissant mineur: 0
+Puissant: 0
+Puissant majeur: 0
+Robuste mineur: 0
+Robuste: 0
+Robuste majeur: 0
+Turbulent: 265 600
+Voyageur: 0
+Examinateur: 56 980
+Feroce mineur: 18 967
+Feroce: 0
+Feroce majeur: 0
+Couteau de Mer: 383 464
+Masque du Frelon Noir: 214 719
+Ceinture du Frelon Noir: 351 189
+Glaglano: 8 049
+Glaglamu: 5 203
+Canne Harr: 1 198 028
+Hache Eriphe: 652 323
+Anneau Tamie: 298 290
+Bonnet Ko: 320 000
+Bottes d'Inferno: 267 680
+Bottes de Styx: 212 710
+Bottes de Mandrin: 241 390
+Bottes de Will Killson: 325 040
+Infernano: 238 110
+Styxano: 325 768
+Mandrano: 288 876
+Willkillsano: 467 688
+Bague Nostik: 433 490
+Masque de Klime: 1 213 220
+Cape de Klime: 0
+Ceinture de Klime: 795 262
+Bonnet Vicieux: 1 186 249
+Anneau Vicieux: 778 762
+Beche Asse: 1 032 409
+Bottes Vicieuses: 881 910
+Cape Glaciale: 925 053
+Anneau Glacial: 130 349
+Ceinture Glaciale: 194 957
+Casque de Missiz Frizz: 859 713
+Alliance de Missiz Frizz: 903 167
+Bottes de Missiz Frizz: 728 950
+Coiffe Ranshi: 435 200
+Cape de Nileza: 576 817
+Amulette de Nileza: 1 008 000
+Bottes de Nileza: 884 300
+Bague Instable: 0
+Anneau Instable: 553 806
+Ceinture Instable: 195 463
+Capuche de Sylargh: 1 069 329
+Cape de Sylargh: 810 942
+Sangle de Sylargh: 847 400
+Coiffe du Kanimate: 981 308
+Cape du Kanimate: 1 153 614
+Amulette du Kanimate: 691 200
+Coiffe du Comte Harebourg: 476 665
+Anneau du Comte Harebourg: 0
+Bottes du Comte Harebourg: 975 120
+Coiffe Seculaire: 1 015 623
+Amulette Seculaire: 1 011 200
+Ceinture Seculaire: 859 268
+Masque du Granduk: 2 100
+Amulette du Granduk: 1 148 800
+Epee du Granduk: 1 227 196
+Cape du Sinistrofu: 0
+Amulette du Sinistrofu: 982 400
+Bottes du Sinistrofu: 1 235 630
+Coiffe Cryochrone: 1 144 938
+Anneau Cryochrone: 980 963
+Amulette Cryochrone: 1 164 800
+Amulette du Cycloide: 1 222 400
+Anneau du Cycloide: 852 774
+Bottes du Cycloide: 1 102 818
+Amulette du Strigide: 345 600
+Ceinture du Strigide: 1 443 591
+Bottes du Strigide: 1 558 280
+Amulette du Nocturlabe: 1 209 600
+Ceinture du Nocturlabe: 803 258
+Bottes du Nocturlabe: 1 328 840
+Sangle Aise: 1 040 000
+Dagues Ricol: 892 039
+Dagues Erhy: 1 155 560
+Hache Euvale: 1 444 058
+Pelle Vice: 1 974
+Rapiere aux Glyphes: 888 822
+Cape Lati: 782 875
+Amulette Rangleur: 633 600
+Cape Ovri: 1 307 056
+Sangle Ouare: 1 584 570
+Sandales Ouzi: 705 050
+Arc Honte: 1 105 696
+Baton Beau: 1 987 316
+Masse Ossiale: 817 236
+Cape au Logis: 436 311
+Talisman Songe: 617 600
+Bandeau Ktrine: 701 284
+Bottes Dogues: 1 051 600
+Des de la Chance: 44 800
+Slip du Roi de Bonta: 944 896
+Baton Fracass: 342 779
+Ceinture Ding Dong: 106 046
+Phylactere Mic: 726 400
+Ceinture Hyolite: 1 252 138
+Calotte Spot: 753 643
+Binocle Airvoyant: 1 206 904
+Pendentif Oton: 889 600
+Batonnet Ronien: 508 601
+Hache Rot: 674 047
+Anneau Stroplante: 5 920
+Amulette Stroplante: 7 074
+Justobottes: 16 000
+Justanneau: 3 808
+Couronne du Wa Wobot: 48 465
+Cape du Wa Wobot: 45 054
+Ceinture du Wa Wobot: 26 426
+Casque du Blanc Pa Wabbit: 34 630
+Ceinture du Blanc Pa Wabbit: 34 359
+Bracelet du Blanc Pa Wabbit: 32 547
+Anneau du Wabbit Cephale: 101 434
+Amulette du Wabbit Cephale: 320 000
+Bottes du Wabbit Cephale: 95 600
+Bottes du Wabbit Garou: 119 500
+Cape du Wabbit Garou: 78 539
+Ceinture du Wabbit Garou: 70 239
+Perruque de Iop: 118 608
+Marteau du Juge Lou: 374 378
+Masque Iproquo: 25 942
+Ceinture Hetorique: 39 193
+Bracelet Tmotiv: 53 008
+Brighellaniere: 33 773
+Scaramouchapeau: 77 973
+Arc Lequin: 58 753
+Clef a Molette: 59 090
+Ceintulotte: 2 350
+Anomen Tengu: 942
+Shinchamu: 326
+Slipwaii: 481
+Geishanneau: 0
+Kouinkano Noir: 334
+Kouinkano Jaune: 1 038
+Ninjamu Blanche: 152
+Ninjamu Noire: 123
+Ailobottes: 102
+Makiture: 741
+Dragoubottes Roses: 0
+Coiffe Medusoide: 142 487
+Nageoiture: 331 982
+Nageanneau: 111 330
+Kalypsoton: 124 721
+Soubretture: 973
+Ceinture du Samourai: 64
+Annolita: 95
+Koinkoiffe Rose: 441 779
+Insigne de Keukeuf: 172 800
+Dorabysses: 1 261 248
+Talisman Glouti: 995 200
+Anneau Tique: 0
+Casquipik: 1 007 111
+Pikottes: 855 620
+Pikano: 769 757
+Bandeau Culaire: 659 186
+Amulette Ikete: 739 200
+Cape Parition: 0
+Marteau des Anciens Steamers: 1 333 820
+Amulule: 988 800
+Obscture: 1 265 654
+Chaussures Hau: 807 820
+Anneau Kturne: 1 063 844
+Bottes Refois: 559 260
+Casqnoar: 1 179 408
+Cape des Justiciers: 960 000
+Ceinture du Pere Fwetar: 1 055 305
+Bottes du Pere Fwetar: 829 330
+Anneau du Pere Fwetar: 694 614
+Casque de Fleche Mauve: 157 349
+Cape de Fleche Mauve: 166 001
+Arc de Fleche Mauve: 170 151
+Chaponion: 32 508
+Caponion: 34 538
+Bottes Donion: 49 538
+Anneau du Kaniblou: 271 441
+Ceinture du Kaniblou: 433 350
+Cape du Kaniblou: 300 573
+Ceinture Karnaval: 0
+Masque du Barbetoal: 565 198
+Cape du Barbetoal: 570 070
+Ceinture du Barbetoal: 582 564
+Couronne de Nidas: 495 278
+Anneau de Nidas: 498 388
+Tongues de Nidas: 480 390
+Amulette du Piloztere: 655 817
+Bracelet du Piloztere: 2 369
+Pantoufles du Piloztere: 478 000
+Coiffe du Levitrof: 567 986
+Alliance du Levitrof: 583 072
+Bottes du Levitrof: 544 920
+Amulette du Kamasterisk: 560 000
+Bottes du Kamasterisk: 492 340
+Cape du Kamasterisk: 747 061
+Bottes Phossiles: 107 550
+Ceinture Phossile: 114 354
+Cape Phossile: 152 607
+Ceinture du Pere Phorreur: 129 906
+Cape du Pere Phorreur: 126 789
+Amulette du Pere Phorreur: 115 200
+Cape Precieuse: 39 967
+Ceinture Precieuse: 39 931
+Bottes Precieuses: 28 680
+Casque du Berserkoffre: 34 864
+Ceinture du Berserkoffre: 36 401
+Bottes du Berserkoffre: 38 240
+Baguette de Mallefisk: 474 804
+Marteau Phossile: 316 065
+Pelle de Nidas: 506 608
+Kamatongues: 0
+Kamature: 0
+Chapeau Truche: 133 589
+Ceintruche: 284 852
+Anneau Truche: 171 080
+Gruchape: 163 593
+Gruchaussures: 344 160
+Gruchette: 147 200
+Bottes de la Cour Sombre: 592 720
+Ceinture de la Cour Sombre: 741 852
+Cape de la Cour Sombre: 983 202
+Chapeau de Gein: 1 648 149
+Ceinture de Gein: 2 310 070
+Amulette de Gein: 1 446 400
+Ceinture de la Reine des Voleurs: 639 407
+Bottes de la Reine des Voleurs: 552 090
+Coiffe de la Reine des Voleurs: 613 730
+Bottes des Malveilleurs: 690 710
+Chapeau des Malveilleurs: 746 545
+Cape des Malveilleurs: 822 166
+Anneau du Katcheur: 209 906
+Bottes du Katcheur: 516 240
+Masque du Katcheur: 728 115
+Dagues de Srambad: 823 992
+Pelle de la Cour Sombre: 696 396
+Arc Necrotique: 572 559
+Epee de la Reine des Voleurs: 702 165
+Amulette Necrotique: 220 800
+Bottes Necrotiques: 191 200
+Cape Necrotique: 199 386
+Bottes de Dremoan: 552 090
+Chapeau de Dremoan: 508 434
+Cape de Dremoan: 661 446
+Ceinture du Capitaine Ekarlatte: 167 574
+Bottes du Capitaine Ekarlatte: 119 500
+Gant du Capitaine Ekarlatte: 151 630
+Casque d'Ali Grothor: 847 150
+Amulette d'Ali Grothor: 457 600
+Cape d'Ali Grothor: 358 690
+Masque de Frakacia: 42 252
+Bottes de Frakacia: 64 774
+Gant de Frakacia: 35 195
+Ceinture Verrehor: 1 600
+Amulette Verrehor: 1 014
+Baleinabottes: 588 800
+Pataugastrique: 630 400
+Kidibonnet: 547 200
+Maskrobe: 740 900
+Capchalot: 787 200
+Voilamibe: 542 530
+Anneau de Pol Ouatnos: 434 980
+Ceintace: 787 200
+Protopagne: 597 500
+Amulette de Pol Ouatnos: 668 800
+Amibou: 1 001 600
+Chapibou: 1 550 049
+Capibou: 650 171
+Anneau des egares: 0
+Bottes des egares: 865 774
+Casque des egares: 1 348 474
+Ceinture de Vortex: 970 979
+Sabots de Vortex: 1 154 370
+Cagoule de Vortex: 899 837
+Harpendentif: 565 494
+Capille: 1 374 054
+Bottarpille: 651 571
+Talisman Igans: 1 808 000
+Ceintrigue: 1 194 856
+Bottes Owesli: 671 590
+Bottes de XLII: 424 548
+Ceinture de XLII: 183 591
+Anneau de XLII: 120 389
+Ceinture de Soissanth: 220 234
+Coiffe de Soissanth: 111 211
+Pantoufles de Soissanth: 145 790
+Coiffe de Fraktale: 252 069
+Baguette des egares: 1 246 916
+Ceinture de Fraktale: 145 143
+Marteau des egares: 602 391
+Plumeau Bil: 1 107 607
+Anneau de Fraktale: 197 251
+Anneau Xelomorphe: 245 904
+Bottes Xelomorphes: 253 340
+Cape Xelomorphe: 256 526
+Bottes de Fouduglen: 36 992
+Amulette de Fouduglen: 21 750
+Baguette Rikiki: 3 285
+Anneau Bille: 7 313
+Cape Lumette: 25 160
+Casque Noix: 8 064
+Pendentif Curatif: 256 000
+Ceinture Anesthesiante: 120 414
+Alliance Apaisante: 193 546
+Masque de Panteroz: 433 794
+String Fouetteur: 1 482 549
+Anneau Tranchant: 379 566
+Bracelet des Fonds marins: 209 054
+Sandales des Fonds marins: 893 860
+Masque des Fonds marins: 1 240 169
+Masque Rosmique: 0
+Cape Ortail: 0
+Bottes Ransitoires: 129 060
+Ceinture Billonnante: 0
+Anneau Vae: 0
+Baton du Chene Mou: 106 707
+Cape Invisible: 0
+Coiffe Invisible: 0
+Anneau Tisse: 25 969
+Bottes Soyeuses: 69 310
+Coiffe de la Nefileuse: 52 658
+Amulette des Huit Yeux: 73 600
+Caparak: 37 535
+Gaine Nyee: 51 952
+Obstructeur mineur: 0
+Obstructeur: 0
+Obstructeur majeur: 0
+Deserteur mineur: 0
+Deserteur: 0
+Deserteur majeur: 0
+Guerisseur mineur: 0
+Guerisseur: 0
+Guerisseur majeur: 0
+Miracule: 0
+Miracule majeur: 0
+Enrage mineur: 8 522
+Enrage: 0
+Enrage majeur: 0
+Erudit mineur: 0
+Erudit: 0
+Erudit majeur: 0
+Alliance des Forestiers: 44 882
+Printatanes: 9 560
+Printanneau: 19 712
+Cascadeur mineur: 0
+Cascadeur: 0
+Cascadeur majeur: 0
+Chanceux mineur: 0
+Chanceux: 0
+Chanceux majeur: 0
+Fortification mineure: 0
+Fortification: 0
+Fortification majeure: 0
+Devastateur Terre mineur: 0
+Devastateur Terre: 0
+Devastateur Terre majeur: 0
+Devastateur Neutre mineur: 0
+Devastateur Neutre: 0
+Devastateur Neutre majeur: 0
+Devastateur Feu mineur: 0
+Devastateur Feu: 0
+Devastateur Feu majeur: 0
+Devastateur Eau mineur: 0
+Devastateur Eau: 0
+Devastateur Eau majeur: 0
+Devastateur Air mineur: 0
+Devastateur Air: 0
+Devastateur Air majeur: 0
+Tanuk: 108 800
+Temporiseur mineur: 0
+Temporiseur: 0
+Temporiseur majeur: 0
+Etourdisseur mineur: 0
+Etourdisseur: 120 340
+Etourdisseur majeur: 120 340
+Evasif mineur: 0
+Evasif: 0
+Evasif majeur: 0
+Cavaleur mineur: 0
+Cavaleur: 0
+Cavaleur majeur: 0
+Culbuteur mineur: 0
+Culbuteur: 0
+Culbuteur majeur: 0
+Solide: 0
+Solide majeur: 0
+Fonceur mineur: 0
+Fonceur: 0
+Fonceur majeur: 0
+Carapace Terre mineur: 0
+Carapace Terre: 0
+Carapace Terre majeur: 0
+Carapace Neutre mineur: 0
+Carapace Neutre: 0
+Carapace Neutre majeur: 0
+Carapace Feu mineur: 2 147
+Carapace Feu: 0
+Carapace Feu majeur: 0
+Carapace Eau mineur: 50 081
+Carapace Eau: 0
+Carapace Eau majeur: 0
+Carapace Air mineur: 79 068
+Carapace Air: 0
+Carapace Air majeur: 0
+Vigoureux mineur: 0
+Vigoureux: 0
+Vigoureux majeur: 0
+Remueur: 230 400
+Nomade: 272 460
+Observateur: 36 260
+Sanguinaire mineur: 0
+Sanguinaire: 0
+Sanguinaire majeur: 0
+Casque de Kardorim: 0
+Cape de Kardorim: 501
+Bracelet de Kardorim: 729
+Coiffe Antome: 111
+Cape Syche: 270
+Animulette: 0
+Marteau de Hargnok: 890
+Sac a Main Renforce: 0
+Ceinture du chasseur: 8 770
+Cocobottes: 1 480
+Masque Vaudou Tam: 141 565
+Marteau de Moon: 28 918
+Cape de Moon: 97 878
+Amulette de Moon: 22 400
+Epee du Bretteur Celeste: 469 864
+Ceinture du Bretteur Celeste: 384 548
+Cape du Bretteur Celeste: 402 517
+Barbe de Zatoishwan: 408 197
+Ceinture de Zatoishwan: 460 734
+Baton de Zatoishwan: 285 668
+Amulette Voldelor: 918 400
+Ceinture Voldelor: 795 921
+Bottes Voldelor: 924 930
+Cape de Kongoku: 839 329
+Boucle d'oreille de Kongoku: 666 363
+Ceinture de Kongoku: 855 075
+Cape du Capitaine Pirate: 36 322
+Chapeau du Capitaine Pirate: 29 314
+Alliance du Capitaine Pirate: 28 764
+Ceinture du K.O.: 493 960
+Amulette du K.O.: 278 400
+Bottes du K.O.: 432 590
+Bottes des 1001 Griffes: 21 510
+Culotte des 1001 Griffes: 5 248
+Bottes des Grocoricos: 5 030
+Bottes des Redroz: 2 369
+Bottes des Pamous: 1 099
+Bottes des Zoblaks: 3 078
+Ceinture des Grocoricos: 0
+Ceinture des Redroz: 4 550
+Ceinture des Pamous: 0
+Ceinture des Zoblaks: 1 629
+Coiffe Ondamentale: 0
+Bottes Initiales: 69 310
+L'Elementure: 0
+Anneau Riginel: 0
+Collier de Khan Karkass: 254
+Torque du Monarque: 5 598
+Bottes de Marline: 282
+Bottes du Monarque: 5 070
+Slip de Khan Karkass: 606
+Ceinture du Monarque: 0
+Torque des 1001 Griffes: 13 069
+Ceinture du Garde Royal: 7 192
+Bottes du Garde Royal: 8 031
+Collier de Lilotte: 869
+Fecaflip: 0
+Bouquet de Roses demoniaques: 159
+Bottes du Roi Joueur: 963 170
+Couronne du Roi Joueur: 0
+Chevaliere du Roi Joueur: 672 020
+Bottes de la Dame du Hasard: 977 510
+Collier de la Dame du Hasard: 742 400
+Cape de la Dame du Hasard: 581 444
+Casque du Chaloeil: 1 027 450
+Cape du Chaloeil: 1 049 411
+Collier du Valet Veinard: 678 400
+Gant du Valet Veinard: 502 597
+Cape du Valet Veinard: 1 030 753
+Cape d'Atcham: 566 243
+Sandales d'Atcham: 0
+Sabres d'Atcham: 0
+Col de Ush: 112 000
+Bottes de Ush: 351 330
+Epee de Ush: 528 284
+Cape des Matougarous: 272 572
+Ceinture des Matougarous: 393 290
+Anneau des Matougarous: 542 697
+Bottes du Pounicheur: 117 110
+Ceinture du Pounicheur: 153 821
+Scalp du Pounicheur: 117 317
+Bague des Ecaflipuces: 84 337
+Collier des Ecaflipuces: 128 000
+Cape des Ecaflipuces: 109 458
+Arc du Chaloeil: 536 394
+Sceptre du Roi Joueur: 591 485
+Hache du Chaloeil: 711 909
+Bottes Dragocourse: 3 148
+Sandalneaires: 2 586
+Collier de Tourthon: 691 200
+Anneau Crustique: 170 919
+Masque de Koutoulou: 355 200
+Pendentif affame: 636 800
+Cape de Diondin: 496 000
+Bottes Innommables: 645 300
+Amulette de Shokkoth: 473 600
+Cape de Mantaze: 435 357
+Poulpagne: 422 400
+Palmes Trithons: 604 670
+Cape Indescriptible: 993 565
+Menoture: 566 400
+Bathon: 1 030 126
+Baguette Range: 565 147
+Arc de Koutoulou: 783 122
+Harpelle: 1 381 590
+Manthache: 672 195
+Epouvante: 787 406
+Dagoulinantes: 626 286
+Marteau R'ture: 515 158
+Ceintouse: 950 150
+Tentassons: 525 800
+Chapoulpe: 872 834
+Bottes de Meno: 1 226 070
+Casquette de Meno: 0
+Cape de Meno: 746 189
+Amulette de l'Indicible: 1 577 600
+Ceinture de l'Indicible: 829 642
+Bottes de l'Indicible: 924 986
+Bague Trithon: 791 077
+Bottes Trithon: 1 075 500
+Masque Trithon: 1 183 929
+Amulette Luminescente: 1 075 200
+Ceinture Luminescente: 1 140 924
+Cape Luminescente: 1 478 013
+Pendentif mignon de Koutoulou: 1 515 597
+Casque Cyclopeen: 1 157 581
+Anneau Rifique: 1 144 811
+Ceinturonce: 1 006 062
+Amuronce: 10 368
+Cape Ouroboulos: 24 768
+Anneau Ouroboulos: 31 523
+Bottes Ouroboulos: 28 680
+Cape du Desert: 19 122
+Coiffennex: 25 455
+String Leolhyene: 31 345
+Hache du Mantiscore: 36 270
+Masse Boulepique: 25 151
+Capterre: 180 297
+Cascterre: 161 628
+Cacture: 201 235
+Sombrero d'El Piko: 264 266
+Anneau d'El Piko: 96 688
+Amulette d'El Piko: 89 600
+Dagues Cacterre: 148 950
+Maracassabre: 64 670
+Le Dorado: 598 400
+Lainture: 9 812
+Chaussettenlaine: 11 414
+Casquoporth: 385 816
+Ceintremorse: 511 449
+Crolier: 336 000
+Chaussquales: 468 440
+Capiktenia: 495 042
+Veranneau: 308 382
+Nemes de Tal Kasha: 0
+Chevelure de Tal Kasha: 803 327
+Sandales de Tal Kasha: 1 508 090
+Bottistik: 1 763 820
+Baguistik: 1 243 101
+Torquistik: 1 504 000
+Capuche de Moum-Ra: 1 442 206
+Ankhape: 1 311 576
+Pagne du Rykaon: 1 795 358
+Anneauraeus: 1 799
+Pyraguette: 0
+Heqache: 1 995 813
+Anneau Nos: 0
+Bottes Harcie: 88 430
+Cape Hoile: 0
+Ceinture Leumant: 0
+Ceinture du Molosse: 6 782
+Amulette du Molosse: 2 801
+Bouclier en Mousse: 695
+Coupe de Dragokart: 84 864
+Bouclier Aerdala: 34 017
+Bouclier Feudala: 58 542
+Bouclier Terrdala: 157 191
+Bouclier du Craqueleur: 4 135
+Bouclier de Bowisse: 300
+Bouclier du Bouftou: 206
+Bouclier du Chouque: 33 368
+Bouclier Volant: 192
+Kloume: 10 897
+Bouclier du Captain Amakna: 546 120
+Derma Tho: 29 937
+Bouclier du Bawbawe: 22 775
+Le Karde Coeur: 181 800
+Bouclier des Brigandins: 98 366
+Bouclier du Mont Kipou: 59 233
+Bouclier du Bucheron: 0
+Cadran d'Eau: 0
+Cadran de Terre: 606 600
+Cadran d'Air: 675 000
+Cadran de Feu: 101 842
+Bouclier Pandawa: 163 843
+Bouclier Abraknyde: 24 300
+Bouclier d'Asse: 137 700
+Bouclier en Slip: 109 424
+Bouclier du Sadida: 232 200
+Bouclier Ventaille: 47 901
+Bouclier Akwadala: 26 894
+Bouclier Taverne: 218 700
+Ftalmo: 50 126
+Bouclier de Sidimote: 32 400
+Bouclier Fi'Squale: 37 800
+Bouclier precieux: 130 514
+Ecorce de Brouce: 952 835
+Roncier: 169 792
+La Rondelle: 920 700
+Ambrouclier: 0
+Jadis: 1 426 330
+Bouclier du serrurier: 347 255
+Carapar: 821 135
+Quatre-feuilles: 1 297 800
+Sept ans de malheur: 430 275
+Detourne: 494 233
+Bivalve: 1 679 400
+Bouclier a helice: 231 721
+Bouclier du Chafer fantassin: 2 175
+Bouclier cubiste: 10 800
+Bouclier alveole: 682 786
+Bouclier du Chef Crocodaille: 11 627
+Bouclier du tournesol sauvage: 145
+Bouclier du Stalak: 2 048 400
+Bouclier du Cycloide: 2 656 800
+Ceinture du Comte Razof: 907 378
+Chaussons du Comte Razof: 408 690
+Chapeau du Comte Razof: 1 202 902
+Cape Tif: 1 015 224
+Chaussures Face: 626 180
+Amulette Hale: 988 800
+Hachoirs de Viandargh: 962 287
+Magture: 3 966
+Masque d'Anerice: 874 845
+Cape d'Anerice: 1 074 793
+Bouclier d'Anerice: 137 199
+Goulano: 926 516
+Goulbottes: 1 412 490
+Goulclier: 1 106 632
+Casque du Scorbute: 11 393
+Cape du Scorbute: 13 423
+Amulette du Scorbute: 6 400
+Bouclier de Choudini: 42 153
+Bottes de Choudini: 62 617
+Masque de Choudini: 19 688
+Masque Riktus: 43 710
+Cape Riktus: 29 258
+Anneau Riktus: 58 511
+Coiffe du Muloubar: 67 547
+Cape du Muloubar: 49 750
+Pagne du Muloubar: 99 984
+Pelle de Katrepat: 1 376 254
+Marteau de Katrepat: 5 446 385
+Bouclier Invisible: 7 656
+Amulette du Coeur Vaillant: 3 859 200
+Cape du Coeur Vaillant: 258 575
+Amulette du Coeur Saignant: 2 105 600
+Cape du Coeur Saignant: 1 567 419
+Ceinture de l'Esprit Salvateur: 324 809
+Bottes de l'Esprit Salvateur: 363 280
+Masque de l'Esprit Salvateur: 3 180 281
+Ceinture de l'Esprit Malsain: 4 277 329
+Bottes de l'Esprit Malsain: 0
+Masque de l'Esprit Malsain: 2 679 480
+Capuche de l'OEil Attentif: 0
+Amulette de l'OEil Attentif: 1 888 000
+Cape de l'OEil Putride: 2 418 280
+Capuche de l'OEil Putride: 586 639
+Amulette de l'OEil Putride: 6 051 200
+Bouclier Bontarien: 849 534
+Bouclier Brakmarien: 134 347
+Amulette d'Ilyzaelle: 726 400
+Casque d'Ilyzaelle: 0
+Bouclier d'Ilyzaelle: 901 809
+Alliance Brulame: 740 185
+Pompes Funebres: 1 598 910
+Masque Brulame: 755 588
+Lance corrompue: 1 481 437
+Dagues d'Ilyzaelle: 738 521
+Epee Brulame: 1 415 452
+Arc corrompu: 518 359
+Chaussures Ardentes: 1 816 400
+Masque Ardent: 1 693 410
+Cape Ardente: 0
+Amulette Volcanique: 2 105 600
+Sac Volcanique: 2 361 215
+Sabots Volcaniques: 1 919 170
+Lav'Hache: 0
+Massier: 1 593 770
+Heaume Oplate: 1 004 800
+Ceinture Gence: 1 267 200
+Lavanneau: 2 746 022
+Bouclier de Solar: 0
+Sangle Oriole: 4 151 420
+Chapeau de Tournoye: 2 112 971
+Cape de Cranonier: 0
+Culotte de Bethel: 2 393 883
+Chaussons de Macrab: 2 693 530
+Baguette Heroclite: 2 545 597
+Lance Horsele: 1 161 913
+Cape Solution: 2 672 000
+Anneau Toriete: 0
+Collier Rophante: 1 619 200
+Bottes Honyme: 2 953 600
+Anneau de l'Audacieux: 23
+Ceinture en Grithril: 2 455 092
+Anneau en Grithril: 0
+Casque en Grithril: 2 351 062
+Cape Martegel: 1 293 286
+Masquegel: 1 800 660
+Amulette Martegel: 2 333 417
+Casque Volkorne: 1 197 428
+Ceinture Volkorne: 1 165 017
+Amulette Volkorne: 763 298
+Anneau Volkorne: 255 110
+Arc Volkorne: 1 122 289
+Crocobur: 14 915 408
+Plume de Buhorado: 0
+Droiture de Fallanster: 0
+Trompe-la-Mort: 0
+Couronne de Bram Barbe-Monde: 3 616 646
+Diademe de Ganymede: 10 364 789
+Bravoure de Rykke Errel: 0
+Cape de Jahash Jurgen: 49 855 500
+Bottes de Mille Lieues: 2 882 340
+Bottes du Cul Botte: 9 440 500
+Audace de Dodge: 1 620
+Ceinture de Dame Jhessica: 4 070 952
+Couteaux Sacrificiels: 1 827 224
+Sandales Paztek: 1 584 570
+Cape Paztek: 1 609 950
+Masque Paztek: 1 562 956
+Sceptre Zor: 553 654
+Amulette des Chocomanciens: 2 366 895
+Ceinture des Chocomanciens: 4 548 650
+Bouclier des Chocomanciens: 135 415
+Spatule Tranche-Gourmands: 2 344 162
+Masque de Kao: 1 959 800
+Croquasque: 0
+Bottes Croquantes: 817 380
+Sac a Croquer: 2 673 245
+Crocanneau: 773 342
+Croture: 1 309 727
+Croclier: 1 589 452
+Bottes Lunaires: 958 390
+Collier Lunaire: 823 559
+Anneau Lunaire: 3 000 498
+Baguette de Torkelonia: 291 184
+Carapace de Torkelonia: 1 509 015
+Corne de Torkelonia: 1 470 139
+Convoitise de Misere: 1 822 683
+Solerets de Misere: 3 014 482
+Corset de Misere: 1 104 252
+Solerets de Guerre: 693 370
+Heaume de Guerre: 518 221
+Forteresse de Guerre: 710 194
+Ceste de Guerre: 1 017 959
+Echarpe de Servitude: 1 955 115
+Manteau de Servitude: 2 399 918
+Dora de Servitude: 1 088 016
+Bague de Corruption: 1 562 349
+Alliance de Corruption: 1 872 397
+Ceinturonce de Corruption: 993 271
+Beche de Corruption: 986 389
+Collier de Bavdur: 1 409 424
+Parure du Vautour: 1 443 560
+Hachebarde de Guerre: 0
+Pestilence de Corruption: 9 380 354
+Etreinte de Servitude: 0
+Balance-Fleau de Misere: 0
+Kwarapace: 372 070
+Kwaflaque: 152 327
+Kwache: 67 406
+Nun-Charang: 58 134
+Chapeau Kasse: 74 578
+Caparavent: 156 341
+Ceinture Pitude: 281 525
+Collier de perlouzes: 224 303
+Baguette Bainkuite: 99 499
+Baton de Hanshi: 90 925
+Alliance des Firefoux: 26 320
+Eventails de Shihan: 210 140
+Ceinture d'artifices: 155 476
+Crache-feu Firefoux: 106 708
+Sac des Firefoux: 160 354
+Katana de Spiritueur: 145 860
+Amulette Rinne: 1 730 813
+Sangle Icisme: 1 332 885
+Solerets Kritur: 1 926 340
+Casque Onsonne: 0
+Cape Ostrophe: 2 197 830
+Faux Neme: 3 802 909
+Amulette de Wulan: 1 392 685
+Diademe de Wulan: 0
+Arc de Wulan: 2 456 534
+Anneau Menclatur: 883 878
+Kanji Jirark: 0
+Faux Netik: 10 264 437
+Anneau Rtograf: 5 350 355
+Baguette Imologie: 1 776 054
+Maillet Pitaf: 1 784 916
+Amulette Possedee: 1 272 164
+Anneau Possede: 191 843
+Ceinture Possedee: 1 228 663
+Amulette du Pandamonium: 3 033 107
+Alliance du Pandamonium: 979 479
+Baguette du Pandamonium: 0
+Bouclier Possede: 1 747 004
+Ailes du Chaos: 900 558
+Marteau Possede: 945 922
+Anneau du rat brakmarien: 49 460
+Anneau du rat bontarien: 18 357
+Torque de Ravageur: 2 946 064
+Ceste de Ravageur: 2 180 951
+Hachoir de Ravageur: 3 352 324
+Faux Seraphine: 824 239
+Epee Diablotine: 1 685 047
+Faux Chaotique: 1 668 220
+Derniere Aube: 4 167 534
+Chant du Necromant: 2 453 937
+Portes de Bonta: 624 003
+Mort du Centoror: 0
+Ciel de Foudre Noire: 5 583 040
+Bois de la Liche: 1 801 986
+Pioche a usage unique: 0
+Anneau poli de Malter: 176 504
+Bottes Crepitantes de Malter: 193 590
+Faux Enracinee de Malter: 292 076
+Alliance d'Hell Mina: 80 837
+Cape d'Hell Mina: 73 445
+Pertuisane d'Hell Mina: 92 585
+Chapeau du Directeur Grunob: 24 420
+Bottes du Directeur Grunob: 7 170
+Ceinture du Directeur Grunob: 9 152
+Faux du Directeur Grunob: 12 354
+Claymomore: 3 687 068
+Chagrin de Cire: 1 762 722
+Ames Hurlantes: 1 385 348
+Lourd Fardeau: 1 516 553
+Eternelle Poursuite: 0
+Triste Sceau: 0
+Bottes des Rebelles: 23 900
+Cape des Rebelles: 13 313
+Alliance des Rebelles: 17 518
+Heaume Clochecuivre: 787 162
+Anneau Clochecuivre: 174 963
+Casquette de Rakoopeur: 23 874
+Masse Clochecuivre: 516 340
+Queue de Rakoopeur: 21 113
+Serpe de Rakoopeur: 14 249
+Amulette de guerrier albueran: 11 005
+Anneau de guerrier albueran: 14 613
+Lance de guerrier albueran: 12 713
+Lance de trappeur albueran: 15 463
+Ceinture de trappeur albueran: 17 726
+Bottes de trappeur albueran: 14 541
+Bouclier Gris: 152 392
+Collier Gris: 421 823
+Serpe Aigrie: 223 532
+Marteau Aigri: 7 743 664
+Grelots de Barberyl: 1 132 195
+Subligar de Barberyl: 922 393
+Tonfas de Barberyl: 308 176
+Mur de Ronces: 1 924 740
+Potence d'Ephedrya: 1 129 940
+Pilier d'Ephedrya: 1 477 687
+Cruaute de Belladone: 0
+Amertume de Belladone: 1 439
+Tendresse de Belladone: 0
+Yaularc: 615 507
+Steamanneau Maitre: 0
+Miracule mineur: 0
+Cape Rimordiale: 0
+Chapeau Devin: 0
+Anneau de Sagesse: 0
+Faux de Farle Ingalsse: 0
+Francisque a Breles: 2 379
+Hache du Nidanwa: 31 550
+Ceinture d'Hectaupe: 7 738
+Souliers Vernis Bruns: 0
+Bastion: 0
+Solide mineur: 59 122
+Blessure du Sacrieur: 1 653
+Ralentisseur mineur: 0
+Mes Petits Sabots: 11 696
+Tacleur mineur: 0
+Le Troma: 0
+Amulette Tude: 0
+Anneau The: 0
+Pelle Melle: 15 716
+Amulette Argie: 29 576
+Ceinture Dragocourse: 8 584

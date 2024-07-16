@@ -27,7 +27,7 @@ def get_items():
     conn.close()
     
     # Lire les valeurs de brisage
-    brisage_values = read_brisage_values('../brisage.txt')
+    brisage_values = read_brisage_values('brisage.txt')
     
     items_with_brisage = []
     for item in items:
@@ -38,13 +38,13 @@ def get_items():
     
     return jsonify(items_with_brisage)
 
-@app.route('/')
-def index():
-    return send_from_directory('', 'index.html')
+# @app.route('/')
+# def index():
+#     return send_from_directory('', 'index.html')
 
-@app.route('/<path:path>')
-def static_files(path):
-    return send_from_directory('', path)
+# @app.route('/<path:path>')
+# def static_files(path):
+#     return send_from_directory('', path)
 
 if __name__ == '__main__':
     app.run(debug=True)
