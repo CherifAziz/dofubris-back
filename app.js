@@ -7,9 +7,16 @@ const port = process.env.PORT || 3000;
 
 // Enable CORS
 app.use((req, res, next) => {
-    res.header('Access-Control-Allow-Origin', '*');
-    res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader("Access-Control-Allow-Credentials", "true");
+    res.setHeader("Access-Control-Max-Age", "1800");
+    res.setHeader('Access-Control-Allow-Headers', 'X-CSRF-Token,Origin, X-Requested-With, Content, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version, Authorization');
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, PATCH, OPTIONS');
     next();
+});
+
+app.use((req, res) => {
+    res.json({ message: "LETS GO !" }); 
 });
 
 // Database connection
@@ -56,9 +63,6 @@ app.get('/api/items', (req, res) => {
         res.json(itemsWithBrisage);
     });
 });
-
-// Serve static files (e.g., index.html)
-app.use(express.static(__dirname));
 
 // Start the server
 app.listen(port, () => {
