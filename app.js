@@ -15,9 +15,9 @@ app.use((req, res, next) => {
     next();
 });
 
-app.use((req, res) => {
-    res.json({ message: "LETS GO !" }); 
-});
+// app.use((req, res) => {
+//     res.json({ message: "LETS GO !" }); 
+// });
 
 // Database connection
 const db = new sqlite3.Database('prices.db', sqlite3.OPEN_READWRITE, (err) => {
@@ -28,17 +28,17 @@ const db = new sqlite3.Database('prices.db', sqlite3.OPEN_READWRITE, (err) => {
 });
 
 // Function to read brisage values
-function readBrisageValues(filePath) {
-    const brisageValues = {};
-    // Assuming filePath is relative to the server.js location
-    const fs = require('fs');
-    const lines = fs.readFileSync(filePath, 'utf-8').split('\n');
-    lines.forEach(line => {
-        const [item, value] = line.split(':');
-        brisageValues[unidecode(item.trim())] = value.trim();
-    });
-    return brisageValues;
-}
+// function readBrisageValues(filePath) {
+//     const brisageValues = {};
+//     // Assuming filePath is relative to the server.js location
+//     const fs = require('fs');
+//     const lines = fs.readFileSync(filePath, 'utf-8').split('\n');
+//     lines.forEach(line => {
+//         const [item, value] = line.split(':');
+//         brisageValues[unidecode(item.trim())] = value.trim();
+//     });
+//     return brisageValues;
+// }
 
 // API endpoint to get items
 app.get('/api/items', (req, res) => {
@@ -49,14 +49,14 @@ app.get('/api/items', (req, res) => {
             res.status(500).json({ error: 'Internal Server Error' });
             return;
         }
-        const brisageValues = readBrisageValues('./brisage.txt');
+        // const brisageValues = readBrisageValues('./brisage.txt');
         const itemsWithBrisage = rows.map(row => {
             const item = {
                 id: row.id,
                 item: row.item,
                 price: row.price,
                 timestamp: row.timestamp,
-                brisage_value: brisageValues[unidecode(row.item)] || 'N/A'
+                // brisage_value: brisageValues[unidecode(row.item)] || 'N/A'
             };
             return item;
         });
